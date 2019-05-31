@@ -1,0 +1,8 @@
+drwxr-xr-x   2 u0172789 638          4096 May 11  2018 .
+drwxr-xr-x   5 u0172789 638          4096 May 11  2018 ..
+-rw-r--r--   1 u0172789 638          2335 May 11  2018 base.php
+-rw-r--r--   1 u0172789 638          1172 May 11  2018 categorymanager.php
+-rw-r--r--   1 u0172789 638          1200 May 11  2018 defaultboardmanager.php
+-rw-r--r--   1 u0172789 638          2354 May 11  2018 reportmanager.php
+-rw-r--r--   1 u0172789 638          1035 May 11  2018 viewmanager.php
+-rw-r--r--   1 u0172789 638          1595 May 11  2018 widgetmanager.php

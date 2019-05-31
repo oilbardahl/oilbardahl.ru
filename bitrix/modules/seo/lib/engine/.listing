@@ -1,0 +1,12 @@
+drwxr-xr-x   2 u0172789 638          4096 May 10  2016 .
+drwxr-xr-x   7 u0172789 638          4096 May 11  2018 ..
+-rw-r--r--   1 u0172789 638          1462 May 16  2016 bitrix.php
+-rw-r--r--   1 u0172789 638           606 May 10  2016 bitrixengine.php
+-rw-r--r--   1 u0172789 638          8115 May 11  2018 google.php
+-rw-r--r--   1 u0172789 638         15136 May 11  2018 yandex.php
+-rw-r--r--   1 u0172789 638          4127 May 16  2016 yandexbase.php
+-rw-r--r--   1 u0172789 638         26923 May 11  2018 yandexdirect.php
+-rw-r--r--   1 u0172789 638           593 May 10  2016 yandexdirectexception.php
+-rw-r--r--   1 u0172789 638          1294 May 11  2018 yandexdirectlive.php
+-rw-r--r--   1 u0172789 638          2576 May 11  2018 yandexexception.php
+-rw-r--r--   1 u0172789 638          1057 May 16  2016 yandexjson.php

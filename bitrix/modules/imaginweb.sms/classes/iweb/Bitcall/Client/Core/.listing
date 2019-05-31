@@ -1,0 +1,9 @@
+drwxr-xr-x   5 u0172789 638          4096 Dec  1  2016 .
+drwxr-xr-x   5 u0172789 638          4096 Dec  1  2016 ..
+-rw-r--r--   1 u0172789 638           499 Dec  1  2016 BaseBitcallClient.php
+-rw-r--r--   1 u0172789 638          1430 Dec  1  2016 BitcallClientFactory.php
+drwxr-xr-x   2 u0172789 638          4096 Dec  1  2016 Common
+-rw-r--r--   1 u0172789 638          1777 Dec  1  2016 IBitcallClient.php
+-rw-r--r--   1 u0172789 638           342 Dec  1  2016 IBitcallClientFactory.php
+drwxr-xr-x   2 u0172789 638          4096 Dec  1  2016 Rest
+drwxr-xr-x   2 u0172789 638          4096 Dec  1  2016 Soap

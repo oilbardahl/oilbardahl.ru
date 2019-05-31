@@ -1,0 +1,12 @@
+drwxr-xr-x   3 u0172789 638          4096 May 11  2018 .
+drwxr-xr-x   7 u0172789 638          4096 May 16  2016 ..
+-rw-r--r--   1 u0172789 638          2008 May 11  2018 ap.php
+-rw-r--r--   1 u0172789 638          4067 May 11  2018 apclient.php
+-rw-r--r--   1 u0172789 638          1458 May 11  2018 apmanager.php
+-rw-r--r--   1 u0172789 638           925 May 10  2016 bitrix24signer.php
+-rw-r--r--   1 u0172789 638         17284 May 11  2018 contact.php
+-rw-r--r--   1 u0172789 638          2603 May 16  2016 contactconnect.php
+-rw-r--r--   1 u0172789 638         15941 May 11  2018 network.php
+drwxr-xr-x   2 u0172789 638          4096 May 16  2016 properties
+-rw-r--r--   1 u0172789 638          3521 May 11  2018 user.php
+-rw-r--r--   1 u0172789 638          3458 May 16  2016 userlink.php

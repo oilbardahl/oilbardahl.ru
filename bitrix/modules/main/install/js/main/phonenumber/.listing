@@ -1,0 +1,8 @@
+drwxr-xr-x   4 u0172789 638          4096 May 11  2018 .
+drwxr-xr-x  18 u0172789 638          4096 May 11  2018 ..
+drwxr-xr-x   2 u0172789 638          4096 May 11  2018 css
+drwxr-xr-x   2 u0172789 638          4096 May 11  2018 flag
+-rw-r--r--   1 u0172789 638        331164 May 11  2018 metadata.json
+-rw-r--r--   1 u0172789 638         55703 May 11  2018 phonenumber.js
+-rw-r--r--   1 u0172789 638         24434 May 11  2018 phonenumber.map.js
+-rw-r--r--   1 u0172789 638         19586 May 11  2018 phonenumber.min.js

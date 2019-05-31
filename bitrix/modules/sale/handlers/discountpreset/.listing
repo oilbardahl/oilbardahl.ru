@@ -1,0 +1,15 @@
+drwxr-xr-x   3 u0172789 638          4096 May 11  2018 .
+drwxr-xr-x   5 u0172789 638          4096 May 11  2018 ..
+-rw-r--r--   1 u0172789 638         15054 May 11  2018 connectedproduct.php
+-rw-r--r--   1 u0172789 638         16736 May 11  2018 cumulative.php
+-rw-r--r--   1 u0172789 638          7633 May 11  2018 delivery.php
+-rw-r--r--   1 u0172789 638          1125 May 11  2018 freedelivery.php
+drwxr-xr-x   4 u0172789 638          4096 May 11  2018 lang
+-rw-r--r--   1 u0172789 638          7662 May 11  2018 orderamount.php
+-rw-r--r--   1 u0172789 638          5354 May 11  2018 orderperday.php
+-rw-r--r--   1 u0172789 638          5372 May 11  2018 paysystem.php
+-rw-r--r--   1 u0172789 638           627 May 11  2018 paysystemextra.php
+-rw-r--r--   1 u0172789 638          5817 May 11  2018 productdelivery.php
+-rw-r--r--   1 u0172789 638          7826 May 11  2018 productperday.php
+-rw-r--r--   1 u0172789 638          4490 May 11  2018 simpleproduct.php
+-rw-r--r--   1 u0172789 638           562 May 11  2018 simpleproductextra.php

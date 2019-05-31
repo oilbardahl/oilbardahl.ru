@@ -1,0 +1,11 @@
+drwxr-xr-x   6 u0172789 638          4096 May 11  2018 .
+drwxr-xr-x   9 u0172789 638          4096 May 10  2016 ..
+drwxr-xr-x   2 u0172789 638          4096 May 11  2018 compatible
+-rw-r--r--   1 u0172789 638          4730 May 11  2018 currency.php
+-rw-r--r--   1 u0172789 638         53267 May 11  2018 currencyclassifier.php
+-rw-r--r--   1 u0172789 638          5809 May 11  2018 currencylang.php
+-rw-r--r--   1 u0172789 638         11433 May 11  2018 currencymanager.php
+-rw-r--r--   1 u0172789 638          3375 May 11  2018 currencyrate.php
+drwxr-xr-x   3 u0172789 638          4096 May 11  2018 helpers
+drwxr-xr-x   2 u0172789 638          4096 May 11  2018 integration
+drwxr-xr-x   2 u0172789 638          4096 May 11  2018 userfield

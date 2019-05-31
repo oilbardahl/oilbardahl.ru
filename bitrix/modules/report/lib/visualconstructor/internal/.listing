@@ -1,0 +1,14 @@
+drwxr-xr-x   5 u0172789 638          4096 May 11  2018 .
+drwxr-xr-x  11 u0172789 638          4096 May 11  2018 ..
+-rw-r--r--   1 u0172789 638           896 May 11  2018 configurationsetting.php
+-rw-r--r--   1 u0172789 638           735 May 11  2018 dashboard.php
+-rw-r--r--   1 u0172789 638           988 May 11  2018 dashboardrow.php
+-rw-r--r--   1 u0172789 638           305 May 11  2018 datamanager.php
+drwxr-xr-x   3 u0172789 638          4096 May 11  2018 engine
+drwxr-xr-x   2 u0172789 638          4096 May 11  2018 error
+drwxr-xr-x   2 u0172789 638          4096 May 11  2018 manager
+-rw-r--r--   1 u0172789 638         23223 May 11  2018 model.php
+-rw-r--r--   1 u0172789 638           955 May 11  2018 report.php
+-rw-r--r--   1 u0172789 638           967 May 11  2018 reportconfiguration.php
+-rw-r--r--   1 u0172789 638          1593 May 11  2018 widget.php
+-rw-r--r--   1 u0172789 638           968 May 11  2018 widgetconfiguration.php

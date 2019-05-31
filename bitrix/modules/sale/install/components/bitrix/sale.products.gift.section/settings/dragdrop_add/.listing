@@ -1,0 +1,8 @@
+drwxr-xr-x   3 u0172789 638          4096 May 11  2018 .
+drwxr-xr-x   5 u0172789 638          4096 May 11  2018 ..
+drwxr-xr-x   2 u0172789 638          4096 May 11  2018 images
+-rw-r--r--   1 u0172789 638         15168 May 11  2018 script.js
+-rw-r--r--   1 u0172789 638         11907 May 11  2018 script.map.js
+-rw-r--r--   1 u0172789 638         11097 May 11  2018 script.min.js
+-rw-r--r--   1 u0172789 638          5352 May 11  2018 style.css
+-rw-r--r--   1 u0172789 638          4910 May 11  2018 style.min.css

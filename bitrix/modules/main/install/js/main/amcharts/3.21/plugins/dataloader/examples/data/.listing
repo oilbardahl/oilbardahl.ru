@@ -1,0 +1,14 @@
+drwxr-xr-x   2 u0172789 638          4096 May 11  2018 .
+drwxr-xr-x   3 u0172789 638          4096 May 11  2018 ..
+-rw-r--r--   1 u0172789 638        184186 May 11  2018 MSFT.csv
+-rw-r--r--   1 u0172789 638          3347 May 11  2018 MSFT_events.csv
+-rw-r--r--   1 u0172789 638        182707 May 11  2018 TXN.csv
+-rw-r--r--   1 u0172789 638          4282 May 11  2018 gantt.json
+-rw-r--r--   1 u0172789 638           425 May 11  2018 gauge.json
+-rw-r--r--   1 u0172789 638          3219 May 11  2018 map.json
+-rw-r--r--   1 u0172789 638          2882 May 11  2018 map_areas.json
+-rw-r--r--   1 u0172789 638           131 May 11  2018 pie.csv
+-rw-r--r--   1 u0172789 638           348 May 11  2018 pie.json
+-rw-r--r--   1 u0172789 638           381 May 11  2018 serial.csv
+-rw-r--r--   1 u0172789 638          1548 May 11  2018 serial.json
+-rw-r--r--   1 u0172789 638           338 May 11  2018 serial2.json

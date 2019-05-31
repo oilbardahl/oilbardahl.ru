@@ -1,0 +1,15 @@
+drwxr-xr-x   2 u0172789 638          4096 Dec  1  2016 .
+drwxr-xr-x   5 u0172789 638          4096 Dec  1  2016 ..
+-rw-r--r--   1 u0172789 638           980 Dec  1  2016 menu.php
+-rw-r--r--   1 u0172789 638          4056 Dec  1  2016 posting_admin.php
+-rw-r--r--   1 u0172789 638            82 Dec  1  2016 posting_attachment.php
+-rw-r--r--   1 u0172789 638           764 Dec  1  2016 posting_bcc.php
+-rw-r--r--   1 u0172789 638          4370 Dec  1  2016 posting_edit.php
+-rw-r--r--   1 u0172789 638          1468 Dec  1  2016 posting_search.php
+-rw-r--r--   1 u0172789 638          1681 Dec  1  2016 rubric_admin.php
+-rw-r--r--   1 u0172789 638          2382 Dec  1  2016 rubric_edit.php
+-rw-r--r--   1 u0172789 638          2591 Dec  1  2016 subscr_admin.php
+-rw-r--r--   1 u0172789 638          1966 Dec  1  2016 subscr_edit.php
+-rw-r--r--   1 u0172789 638          1925 Dec  1  2016 subscr_import.php
+-rw-r--r--   1 u0172789 638            89 Dec  1  2016 subscr_index.php
+-rw-r--r--   1 u0172789 638          3167 Dec  1  2016 template_test.php

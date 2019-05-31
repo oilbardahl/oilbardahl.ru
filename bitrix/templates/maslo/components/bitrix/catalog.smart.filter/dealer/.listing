@@ -1,0 +1,16 @@
+drwxr-xr-x   5 u0172789 638          4096 Oct 16 12:25 .
+drwxr-xr-x   4 u0172789 638          4096 Oct 15 12:39 ..
+-rw-r--r--   1 u0172789 638          2155 Oct 16 12:25 .parameters.php
+-rw-r--r--   1 u0172789 638           179 Oct 16 12:25 ajax.php
+-rw-r--r--   1 u0172789 638           181 Oct 16 12:25 component_epilog.php
+drwxr-xr-x   2 u0172789 638          4096 Oct 16 12:25 images
+drwxr-xr-x   4 u0172789 638          4096 Oct 16 12:25 lang
+-rw-r--r--   1 u0172789 638          1566 Oct 16 12:25 result_modifier.php
+-rw-r--r--   1 u0172789 638         21679 Oct 16 12:25 script.js
+-rw-r--r--   1 u0172789 638         16956 Oct 16 12:25 script.map.js
+-rw-r--r--   1 u0172789 638         14356 Oct 16 12:25 script.min.js
+-rw-r--r--   1 u0172789 638         18576 Oct 16 12:25 style.css
+-rw-r--r--   1 u0172789 638         13317 Oct 16 12:25 style.min.css
+-rw-r--r--   1 u0172789 638         11522 Oct 16 12:25 template.php
+drwxr-xr-x   8 u0172789 638          4096 Oct 16 12:25 themes
+-rw-r--r--   1 u0172789 638          3589 Oct 16 12:25 xml.php

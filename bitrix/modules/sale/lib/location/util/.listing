@@ -1,0 +1,6 @@
+drwxr-xr-x   2 u0172789 638          4096 May 10  2016 .
+drwxr-xr-x  11 u0172789 638          4096 May 11  2018 ..
+-rw-r--r--   1 u0172789 638          8206 May 10  2016 assert.php
+-rw-r--r--   1 u0172789 638          4808 May 10  2016 csvreader.php
+-rw-r--r--   1 u0172789 638           588 May 10  2016 exception.php
+-rw-r--r--   1 u0172789 638         12830 May 10  2016 process.php

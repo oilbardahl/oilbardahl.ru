@@ -1,0 +1,12 @@
+drwxr-xr-x   2 u0172789 638          4096 May 10  2016 .
+drwxr-xr-x   7 u0172789 638          4096 May 11  2018 ..
+-rw-r--r--   1 u0172789 638          5891 May 10  2016 auto.php
+-rw-r--r--   1 u0172789 638          2074 May 10  2016 autolog.php
+-rw-r--r--   1 u0172789 638          1273 May 10  2016 link.php
+-rw-r--r--   1 u0172789 638          2238 May 10  2016 log.php
+-rw-r--r--   1 u0172789 638          2261 May 10  2016 order.php
+-rw-r--r--   1 u0172789 638         15181 May 11  2018 yandexbanner.php
+-rw-r--r--   1 u0172789 638         16611 May 10  2016 yandexcampaign.php
+-rw-r--r--   1 u0172789 638          1173 May 10  2016 yandexgroup.php
+-rw-r--r--   1 u0172789 638          3727 May 11  2018 yandexregion.php
+-rw-r--r--   1 u0172789 638          9520 May 10  2016 yandexstat.php

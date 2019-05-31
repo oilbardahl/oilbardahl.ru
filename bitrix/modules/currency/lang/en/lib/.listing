@@ -1,0 +1,9 @@
+drwxr-xr-x   5 u0172789 638          4096 May 11  2018 .
+drwxr-xr-x   7 u0172789 638          4096 May 10  2016 ..
+-rw-r--r--   1 u0172789 638           645 May 10  2016 currency.php
+-rw-r--r--   1 u0172789 638         49756 May 11  2018 currencyclassifier.php
+-rw-r--r--   1 u0172789 638           939 May 10  2016 currencylang.php
+-rw-r--r--   1 u0172789 638           612 May 11  2018 currencyrate.php
+drwxr-xr-x   3 u0172789 638          4096 May 11  2018 helpers
+drwxr-xr-x   2 u0172789 638          4096 May 11  2018 integration
+drwxr-xr-x   2 u0172789 638          4096 May 11  2018 userfield

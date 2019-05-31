@@ -1,0 +1,8 @@
+drwxr-xr-x   2 u0172789 638          4096 May 11  2018 .
+drwxr-xr-x   9 u0172789 638          4096 May 10  2016 ..
+-rw-r--r--   1 u0172789 638         12338 May 11  2018 currencies.php
+-rw-r--r--   1 u0172789 638          9148 May 11  2018 currencies_rates.php
+-rw-r--r--   1 u0172789 638         15064 May 11  2018 currency_add_from_classifier.php
+-rw-r--r--   1 u0172789 638         14075 May 11  2018 currency_edit.php
+-rw-r--r--   1 u0172789 638          8871 May 11  2018 currency_rate_edit.php
+-rw-r--r--   1 u0172789 638           965 May 11  2018 menu.php

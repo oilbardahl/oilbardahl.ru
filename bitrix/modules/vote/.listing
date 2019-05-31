@@ -1,0 +1,16 @@
+drwxr-xr-x   9 u0172789 638          4096 May 11  2018 .
+drwxr-xr-x  42 u0172789 638          4096 Aug 31  2018 ..
+drwxr-xr-x   2 u0172789 638          4096 May 11  2018 .idea
+drwxr-xr-x   2 u0172789 638          4096 May 10  2016 admin
+drwxr-xr-x   4 u0172789 638          4096 May 10  2016 classes
+-rw-r--r--   1 u0172789 638           414 May 10  2016 default_option.php
+-rw-r--r--   1 u0172789 638         11925 May 11  2018 include.php
+drwxr-xr-x  11 u0172789 638          4096 May 11  2018 install
+-rw-r--r--   1 u0172789 638           279 May 11  2018 keepvoting.php
+drwxr-xr-x   4 u0172789 638          4096 May 10  2016 lang
+drwxr-xr-x   5 u0172789 638          4096 May 11  2018 lib
+-rw-r--r--   1 u0172789 638          4643 May 11  2018 options.php
+-rw-r--r--   1 u0172789 638           331 May 10  2016 prolog.php
+drwxr-xr-x   2 u0172789 638          4096 May 11  2018 tools
+-rw-r--r--   1 u0172789 638            24 May 10  2016 vote_admin.css
+-rw-r--r--   1 u0172789 638         18056 May 11  2018 vote_tools.php

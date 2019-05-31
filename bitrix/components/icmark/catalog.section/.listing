@@ -1,0 +1,11 @@
+drwxr-xr-x   6 u0172789 638          4096 Oct 17 10:33 .
+drwxr-xr-x   4 u0172789 638          4096 Oct 17 10:36 ..
+-rw-r--r--   1 u0172789 638           521 Oct 17 10:33 .description.php
+-rw-r--r--   1 u0172789 638         22997 Oct 17 10:33 .parameters.php
+-rw-r--r--   1 u0172789 638          1314 Oct 17 10:33 ajax.php
+-rw-r--r--   1 u0172789 638         18078 Oct 17 10:33 class.php
+-rw-r--r--   1 u0172789 638         52141 Oct 17 10:33 component.php
+drwxr-xr-x   2 u0172789 638          4096 Oct 17 10:33 images
+drwxr-xr-x   6 u0172789 638          4096 Oct 17 10:33 lang
+drwxr-xr-x   6 u0172789 638          4096 Oct 17 10:33 settings
+drwxr-xr-x   9 u0172789 638          4096 Oct 17 10:33 templates

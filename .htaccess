@@ -1,0 +1,68 @@
+#RewriteEngine On
+#RewriteCond %{SERVER_PORT} !^443$
+#RewriteRule .* https://%{SERVER_NAME}%{REQUEST_URI} [R,L]
+
+Options -Indexes 
+ErrorDocument 404 /404.php
+
+<IfModule mod_php5.c>
+	php_flag allow_call_time_pass_reference 1
+	php_flag session.use_trans_sid off
+
+	#php_value display_errors 1
+
+	php_value mbstring.internal_encoding cp1251
+</IfModule>
+
+<IfModule mod_rewrite.c>
+	Options +FollowSymLinks
+	RewriteEngine On
+#	RewriteCond %{HTTP_HOST} ^www\.oilbardahl\.ru$ [NC]
+#	RewriteRule (.*) https://oilbardahl.ru/$1 [R=301,L]
+	RewriteCond %{REQUEST_FILENAME} !-f
+	RewriteCond %{REQUEST_FILENAME} !-l
+	RewriteCond %{REQUEST_FILENAME} !-d
+	RewriteCond %{REQUEST_FILENAME} !/bitrix/urlrewrite.php$
+	RewriteRule ^(.*)$ /bitrix/urlrewrite.php [L]
+	RewriteRule .* - [E=REMOTE_USER:%{HTTP:Authorization}]
+
+#	RewriteCond %{SERVER_PORT} !^443$
+#	RewriteRule .* https://%{SERVER_NAME}%{REQUEST_URI} [R=301,L]
+</IfModule>
+
+<IfModule mod_dir.c>
+	DirectoryIndex index.php index.html
+</IfModule>
+
+<IfModule mod_expires.c>
+	ExpiresActive on
+	ExpiresByType image/jpeg "access plus 3 day"
+	ExpiresByType image/gif "access plus 3 day"
+	ExpiresByType image/png "access plus 3 day"
+	ExpiresByType text/css "access plus 3 day"
+	ExpiresByType application/javascript "access plus 3 day" 
+</IfModule> 
+
+<ifmodule mod_headers.c>
+	Header always set Access-Control-Allow-Origin: "*"
+	Header always set Access-Control-Allow-Methods "POST, GET, PUT, DELETE, OPTIONS"
+	Header always set Access-Control-Allow-Headers "X-Requested-With, content-type"
+      # Все html и htm файлы будут храниться в кэше браузера один день
+    <FilesMatch "\.(html|htm)$">
+        Header set Cache-Control "max-age=43200"
+    </FilesMatch>
+    # Все css, javascript и текстовые файлы будут храниться в кэше браузера одну неделю
+    <FilesMatch "\.(js|css|txt)$">
+        Header set Cache-Control "max-age=604800"
+    </FilesMatch>
+    # Все флэш файлы и изображения будут храниться в кэше браузера один месяц
+    <FilesMatch "\.(flv|swf|ico|gif|jpg|jpeg|png)$">
+        Header set Cache-Control "max-age=2592000"
+    </FilesMatch>
+    # Отключаем кеширование php и других служебных файлов
+    <FilesMatch "\.(pl|php|cgi|spl|scgi|fcgi)$">
+        Header unset Cache-Control
+    </FilesMatch>
+</ifModule>
+
+

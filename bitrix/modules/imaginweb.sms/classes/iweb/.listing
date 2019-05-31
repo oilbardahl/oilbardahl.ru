@@ -1,0 +1,25 @@
+drwxr-xr-x   3 u0172789 638          4096 Dec  1  2016 .
+drwxr-xr-x   5 u0172789 638          4096 Dec  1  2016 ..
+-rw-r--r--   1 u0172789 638          8362 Dec  1  2016 ASSMS.class.php
+-rw-r--r--   1 u0172789 638           541 Dec  1  2016 Autoloader.php
+drwxr-xr-x   3 u0172789 638          4096 Dec  1  2016 Bitcall
+-rw-r--r--   1 u0172789 638           384 Dec  1  2016 CIWebGatesInfo.php
+-rw-r--r--   1 u0172789 638         10958 Dec  1  2016 DEVINOSMS.Class.v2.1.php
+-rw-r--r--   1 u0172789 638         10719 Dec  1  2016 QTSMS.class.php
+-rw-r--r--   1 u0172789 638         62079 Dec  1  2016 Sender.php
+-rw-r--r--   1 u0172789 638           770 Dec  1  2016 am4u_config Copy.php
+-rw-r--r--   1 u0172789 638          1555 Dec  1  2016 am4u_config.php
+-rw-r--r--   1 u0172789 638          6402 Dec  1  2016 am4u_transport Copy.php
+-rw-r--r--   1 u0172789 638         16159 Dec  1  2016 am4u_transport.php
+-rw-r--r--   1 u0172789 638          1180 Dec  1  2016 index.php
+-rw-r--r--   1 u0172789 638          4945 Dec  1  2016 kompeitosms.php
+-rw-r--r--   1 u0172789 638          6477 Dec  1  2016 mainsms.class.php
+-rw-r--r--   1 u0172789 638          8984 Dec  1  2016 pest.php
+-rw-r--r--   1 u0172789 638           168 Dec  1  2016 redsms2.0.php
+-rw-r--r--   1 u0172789 638          8984 Dec  1  2016 redsms_pest.php
+-rw-r--r--   1 u0172789 638         18572 Dec  1  2016 redsms_smsClient.php
+-rw-r--r--   1 u0172789 638         18127 Dec  1  2016 redsms_smsClientEng.php
+-rw-r--r--   1 u0172789 638           856 Dec  1  2016 sms-sending_config.php
+-rw-r--r--   1 u0172789 638         16556 Dec  1  2016 sms-sending_transport.php
+-rw-r--r--   1 u0172789 638         18569 Dec  1  2016 smsClient.php
+-rw-r--r--   1 u0172789 638         18120 Dec  1  2016 smsClientEng.php

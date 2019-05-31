@@ -1,0 +1,6 @@
+drwxr-xr-x   2 u0172789 638          4096 May 10  2016 .
+drwxr-xr-x  18 u0172789 638          4096 May 11  2018 ..
+-rw-r--r--   1 u0172789 638          1098 May 10  2016 LICENSE
+-rw-r--r--   1 u0172789 638         31901 May 10  2016 qrcode.js
+-rw-r--r--   1 u0172789 638         30025 May 10  2016 qrcode.map.js
+-rw-r--r--   1 u0172789 638         20123 May 10  2016 qrcode.min.js

@@ -1,0 +1,10 @@
+drwxr-xr-x   3 u0172789 638          4096 May 10  2016 .
+drwxr-xr-x   8 u0172789 638          4096 May 10  2016 ..
+-rw-r--r--   1 u0172789 638           415 May 10  2016 .left.menu.php
+-rw-r--r--   1 u0172789 638            96 May 10  2016 .leftfirst.menu.php
+-rw-r--r--   1 u0172789 638            64 May 10  2016 .section.php
+-rw-r--r--   1 u0172789 638           497 May 10  2016 history.php
+-rw-r--r--   1 u0172789 638          1135 May 10  2016 index.php
+drwxr-xr-x   2 u0172789 638          4096 May 10  2016 management
+-rw-r--r--   1 u0172789 638           664 May 10  2016 mission.php
+-rw-r--r--   1 u0172789 638           593 May 10  2016 vacancies.php

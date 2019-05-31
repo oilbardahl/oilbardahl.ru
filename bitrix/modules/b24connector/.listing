@@ -1,0 +1,8 @@
+drwxr-xr-x   6 u0172789 638          4096 May 11  2018 .
+drwxr-xr-x  42 u0172789 638          4096 Aug 31  2018 ..
+drwxr-xr-x   2 u0172789 638          4096 May 11  2018 admin
+-rw-r--r--   1 u0172789 638           307 May 11  2018 include.php
+drwxr-xr-x   9 u0172789 638          4096 May 11  2018 install
+drwxr-xr-x   4 u0172789 638          4096 May 11  2018 lang
+drwxr-xr-x   2 u0172789 638          4096 May 11  2018 lib
+-rw-r--r--   1 u0172789 638          3113 May 11  2018 options.php

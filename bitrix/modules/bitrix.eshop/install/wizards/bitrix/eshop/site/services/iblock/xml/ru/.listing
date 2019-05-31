@@ -1,0 +1,11 @@
+drwxr-xr-x   4 u0172789 638          4096 May 10  2016 .
+drwxr-xr-x   4 u0172789 638          4096 May 10  2016 ..
+-rw-r--r--   1 u0172789 638        285671 May 10  2016 catalog.xml
+drwxr-xr-x   4 u0172789 638          4096 May 10  2016 catalog_files
+-rw-r--r--   1 u0172789 638          2333 May 10  2016 catalog_prices.xml
+-rw-r--r--   1 u0172789 638          2333 May 10  2016 catalog_prices_bl.xml
+-rw-r--r--   1 u0172789 638          2332 May 10  2016 catalog_prices_ua.xml
+-rw-r--r--   1 u0172789 638          5292 May 10  2016 idea.xml
+-rw-r--r--   1 u0172789 638         15008 May 10  2016 news.xml
+drwxr-xr-x   3 u0172789 638          4096 May 10  2016 news_files
+-rw-r--r--   1 u0172789 638         20075 May 10  2016 references.xml

@@ -1,0 +1,15 @@
+drwxr-xr-x   3 u0172789 638          4096 May 10  2016 .
+drwxr-xr-x   7 u0172789 638          4096 May 10  2016 ..
+-rw-r--r--   1 u0172789 638           270 May 10  2016 attributegroupmanager.php
+-rw-r--r--   1 u0172789 638           507 May 10  2016 attributemanager.php
+-rw-r--r--   1 u0172789 638          2249 May 10  2016 config.php
+-rw-r--r--   1 u0172789 638          3645 May 10  2016 context.php
+-rw-r--r--   1 u0172789 638           255 May 10  2016 countermanager.php
+-rw-r--r--   1 u0172789 638          7302 May 11  2018 daycontext.php
+-rw-r--r--   1 u0172789 638          2784 May 10  2016 generatorcontext.php
+-rw-r--r--   1 u0172789 638          2644 May 10  2016 handlers.php
+drwxr-xr-x   2 u0172789 638          4096 May 10  2016 internals
+-rw-r--r--   1 u0172789 638           697 May 10  2016 ratemanager.php
+-rw-r--r--   1 u0172789 638          7465 May 10  2016 reportcontext.php
+-rw-r--r--   1 u0172789 638          1716 May 10  2016 splitreportcontext.php
+-rw-r--r--   1 u0172789 638          1393 May 10  2016 utils.php

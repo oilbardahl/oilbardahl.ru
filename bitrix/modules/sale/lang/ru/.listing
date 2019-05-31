@@ -1,0 +1,17 @@
+drwxr-xr-x  10 u0172789 638          4096 May 11  2018 .
+drwxr-xr-x   4 u0172789 638          4096 May 10  2016 ..
+drwxr-xr-x   3 u0172789 638         12288 May 11  2018 admin
+drwxr-xr-x   2 u0172789 638          4096 May 16  2016 delivery
+drwxr-xr-x   2 u0172789 638          4096 May 10  2016 export
+drwxr-xr-x   2 u0172789 638          4096 May 10  2016 general
+-rw-r--r--   1 u0172789 638          2794 May 11  2018 include.php
+drwxr-xr-x   2 u0172789 638          4096 May 10  2016 install
+-rw-r--r--   1 u0172789 638          2672 May 11  2018 install.php
+drwxr-xr-x  17 u0172789 638          4096 May 11  2018 lib
+-rw-r--r--   1 u0172789 638           210 May 10  2016 measurements.php
+-rw-r--r--   1 u0172789 638           315 May 11  2018 module_updater02.php
+-rw-r--r--   1 u0172789 638         17110 May 11  2018 options.php
+-rw-r--r--   1 u0172789 638            53 May 10  2016 prolog.php
+drwxr-xr-x   3 u0172789 638          4096 May 10  2016 services
+-rw-r--r--   1 u0172789 638           273 May 10  2016 status.php
+drwxr-xr-x   2 u0172789 638          4096 May 11  2018 tools

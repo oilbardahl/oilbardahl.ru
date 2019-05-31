@@ -1,0 +1,15 @@
+drwxr-xr-x   5 u0172789 638          4096 May 10  2016 .
+drwxr-xr-x   3 u0172789 638          4096 May 10  2016 ..
+-rw-r--r--   1 u0172789 638          1031 May 10  2016 .parameters.php
+-rw-r--r--   1 u0172789 638          1190 May 11  2018 ajax.php
+drwxr-xr-x   3 u0172789 638          4096 May 10  2016 bitrix
+-rw-r--r--   1 u0172789 638          3340 May 11  2018 component_epilog.php
+drwxr-xr-x   4 u0172789 638          4096 May 10  2016 lang
+-rw-r--r--   1 u0172789 638          1083 May 10  2016 result_modifier.php
+-rw-r--r--   1 u0172789 638          7355 May 11  2018 script.js
+-rw-r--r--   1 u0172789 638          6497 May 11  2018 script.map.js
+-rw-r--r--   1 u0172789 638          5833 May 11  2018 script.min.js
+-rw-r--r--   1 u0172789 638          4569 May 10  2016 style.css
+-rw-r--r--   1 u0172789 638          3822 May 10  2016 style.min.css
+-rw-r--r--   1 u0172789 638          6051 May 11  2018 template.php
+drwxr-xr-x   8 u0172789 638          4096 May 10  2016 themes

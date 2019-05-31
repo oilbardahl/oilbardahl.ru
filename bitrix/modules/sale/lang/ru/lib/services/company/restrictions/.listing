@@ -1,0 +1,7 @@
+drwxr-xr-x   2 u0172789 638          4096 May 11  2018 .
+drwxr-xr-x   3 u0172789 638          4096 May 11  2018 ..
+-rw-r--r--   1 u0172789 638           178 May 11  2018 currency.php
+-rw-r--r--   1 u0172789 638           192 May 11  2018 delivery.php
+-rw-r--r--   1 u0172789 638           418 May 11  2018 entitytype.php
+-rw-r--r--   1 u0172789 638           202 May 11  2018 location.php
+-rw-r--r--   1 u0172789 638           195 May 11  2018 paysystem.php

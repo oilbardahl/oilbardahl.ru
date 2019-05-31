@@ -1,0 +1,8 @@
+drwxr-xr-x   4 u0172789 638          4096 May 11  2018 .
+drwxr-xr-x   5 u0172789 638          4096 May 11  2018 ..
+-rw-r--r--   1 u0172789 638         18665 May 11  2018 activitywidget.js
+-rw-r--r--   1 u0172789 638         10624 May 11  2018 activitywidget.map.js
+-rw-r--r--   1 u0172789 638         11042 May 11  2018 activitywidget.min.js
+-rw-r--r--   1 u0172789 638           356 May 11  2018 config.php
+drwxr-xr-x   2 u0172789 638          4096 May 11  2018 css
+drwxr-xr-x   4 u0172789 638          4096 May 11  2018 lang

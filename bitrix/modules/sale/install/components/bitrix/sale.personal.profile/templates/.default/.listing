@@ -1,0 +1,5 @@
+drwxr-xr-x   3 u0172789 638          4096 May 10  2016 .
+drwxr-xr-x   3 u0172789 638          4096 May 10  2016 ..
+drwxr-xr-x   4 u0172789 638          4096 May 10  2016 bitrix
+-rw-r--r--   1 u0172789 638           415 May 10  2016 detail.php
+-rw-r--r--   1 u0172789 638           307 May 11  2018 list.php

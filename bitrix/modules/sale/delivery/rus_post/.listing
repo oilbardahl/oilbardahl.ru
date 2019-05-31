@@ -1,0 +1,8 @@
+drwxr-xr-x   2 u0172789 638          4096 May 10  2016 .
+drwxr-xr-x  10 u0172789 638          4096 May 10  2016 ..
+-rw-r--r--   1 u0172789 638           697 May 10  2016 cm_tarif.csv
+-rw-r--r--   1 u0172789 638         15040 May 10  2016 delivery_time.csv
+-rw-r--r--   1 u0172789 638           739 May 10  2016 tarif_data.csv
+-rw-r--r--   1 u0172789 638          1308 May 10  2016 tarif_regions.csv
+-rw-r--r--   1 u0172789 638        406856 May 10  2016 zip_zones.csv
+-rw-r--r--   1 u0172789 638         15734 May 10  2016 zones.csv

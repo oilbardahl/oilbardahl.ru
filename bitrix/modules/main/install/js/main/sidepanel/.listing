@@ -1,0 +1,9 @@
+drwxr-xr-x   3 u0172789 638          4096 May 11  2018 .
+drwxr-xr-x  18 u0172789 638          4096 May 11  2018 ..
+drwxr-xr-x   3 u0172789 638          4096 May 11  2018 css
+-rw-r--r--   1 u0172789 638         24841 May 11  2018 manager.js
+-rw-r--r--   1 u0172789 638         15714 May 11  2018 manager.map.js
+-rw-r--r--   1 u0172789 638         13515 May 11  2018 manager.min.js
+-rw-r--r--   1 u0172789 638         33717 May 11  2018 slider.js
+-rw-r--r--   1 u0172789 638         21125 May 11  2018 slider.map.js
+-rw-r--r--   1 u0172789 638         20837 May 11  2018 slider.min.js

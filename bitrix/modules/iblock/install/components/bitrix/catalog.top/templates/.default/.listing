@@ -1,0 +1,14 @@
+drwxr-xr-x   7 u0172789 638          4096 May 10  2016 .
+drwxr-xr-x   4 u0172789 638          4096 May 10  2016 ..
+-rw-r--r--   1 u0172789 638         17348 May 11  2018 .parameters.php
+drwxr-xr-x   4 u0172789 638          4096 May 11  2018 banner
+-rw-r--r--   1 u0172789 638          1568 May 11  2018 component_epilog.php
+-rw-r--r--   1 u0172789 638          3249 May 10  2016 functions.php
+drwxr-xr-x   2 u0172789 638          4096 May 10  2016 images
+drwxr-xr-x   4 u0172789 638          4096 May 10  2016 lang
+-rw-r--r--   1 u0172789 638           252 May 11  2018 result_modifier.php
+drwxr-xr-x   4 u0172789 638          4096 May 10  2016 section
+drwxr-xr-x   4 u0172789 638          4096 May 10  2016 slider
+-rw-r--r--   1 u0172789 638         14761 May 10  2016 template-section.php
+-rw-r--r--   1 u0172789 638         15320 May 10  2016 template-slider.php
+-rw-r--r--   1 u0172789 638          2783 May 11  2018 template.php

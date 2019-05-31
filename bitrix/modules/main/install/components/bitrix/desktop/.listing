@@ -1,0 +1,14 @@
+drwxr-xr-x   5 u0172789 638          4096 May 10  2016 .
+drwxr-xr-x  59 u0172789 638          4096 May 11  2018 ..
+-rw-r--r--   1 u0172789 638           308 May 10  2016 .description.php
+-rw-r--r--   1 u0172789 638          7183 May 10  2016 .parameters.php
+-rw-r--r--   1 u0172789 638         11818 May 11  2018 admin_settings.php
+-rw-r--r--   1 u0172789 638         11517 Jul 25  2016 admin_settings_all.php
+-rw-r--r--   1 u0172789 638         27796 May 11  2018 component.php
+drwxr-xr-x   2 u0172789 638          4096 May 10  2016 images
+-rw-r--r--   1 u0172789 638          7428 May 16  2016 include.php
+drwxr-xr-x   4 u0172789 638          4096 May 10  2016 lang
+-rw-r--r--   1 u0172789 638         15554 May 10  2016 script.js
+-rw-r--r--   1 u0172789 638         12708 May 10  2016 script.map.js
+-rw-r--r--   1 u0172789 638         11056 May 10  2016 script.min.js
+drwxr-xr-x   4 u0172789 638          4096 May 10  2016 templates

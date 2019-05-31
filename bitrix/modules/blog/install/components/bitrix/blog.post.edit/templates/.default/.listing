@@ -1,0 +1,12 @@
+drwxr-xr-x   3 u0172789 638          4096 May 11  2018 .
+drwxr-xr-x   5 u0172789 638          4096 May 10  2016 ..
+drwxr-xr-x   4 u0172789 638          4096 May 10  2016 lang
+-rw-r--r--   1 u0172789 638          1811 May 11  2018 neweditor.php
+-rw-r--r--   1 u0172789 638          1416 May 11  2018 result_modifier.php
+-rw-r--r--   1 u0172789 638         12927 May 11  2018 script.js
+-rw-r--r--   1 u0172789 638          9641 May 11  2018 script.map.js
+-rw-r--r--   1 u0172789 638          8500 May 11  2018 script.min.js
+-rw-r--r--   1 u0172789 638         26681 May 10  2016 script.php
+-rw-r--r--   1 u0172789 638           396 May 11  2018 style.css
+-rw-r--r--   1 u0172789 638           360 May 11  2018 style.min.css
+-rw-r--r--   1 u0172789 638         22096 May 11  2018 template.php

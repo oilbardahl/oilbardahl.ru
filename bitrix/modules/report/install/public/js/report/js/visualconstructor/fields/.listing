@@ -1,0 +1,17 @@
+drwxr-xr-x   2 u0172789 638          4096 May 11  2018 .
+drwxr-xr-x   3 u0172789 638          4096 May 11  2018 ..
+-rw-r--r--   1 u0172789 638          1361 May 11  2018 colorfield.js
+-rw-r--r--   1 u0172789 638          1037 May 11  2018 colorfield.map.js
+-rw-r--r--   1 u0172789 638           913 May 11  2018 colorfield.min.js
+-rw-r--r--   1 u0172789 638          2382 May 11  2018 previewblock.js
+-rw-r--r--   1 u0172789 638          1842 May 11  2018 previewblock.map.js
+-rw-r--r--   1 u0172789 638          1756 May 11  2018 previewblock.min.js
+-rw-r--r--   1 u0172789 638          5361 May 11  2018 reporthandlerselect.js
+-rw-r--r--   1 u0172789 638          3287 May 11  2018 reporthandlerselect.map.js
+-rw-r--r--   1 u0172789 638          2992 May 11  2018 reporthandlerselect.min.js
+-rw-r--r--   1 u0172789 638          1076 May 11  2018 reporttitle.js
+-rw-r--r--   1 u0172789 638           833 May 11  2018 reporttitle.map.js
+-rw-r--r--   1 u0172789 638           773 May 11  2018 reporttitle.min.js
+-rw-r--r--   1 u0172789 638          1844 May 11  2018 whatwillcalculate.js
+-rw-r--r--   1 u0172789 638          1506 May 11  2018 whatwillcalculate.map.js
+-rw-r--r--   1 u0172789 638          1459 May 11  2018 whatwillcalculate.min.js

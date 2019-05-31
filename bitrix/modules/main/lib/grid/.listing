@@ -1,0 +1,11 @@
+drwxr-xr-x   4 u0172789 638          4096 May 11  2018 .
+drwxr-xr-x  35 u0172789 638          4096 May 11  2018 ..
+-rw-r--r--   1 u0172789 638          1298 May 11  2018 actions.php
+-rw-r--r--   1 u0172789 638           573 May 11  2018 context.php
+-rw-r--r--   1 u0172789 638           967 May 11  2018 declension.php
+drwxr-xr-x   2 u0172789 638          4096 May 11  2018 editor
+-rw-r--r--   1 u0172789 638           443 May 11  2018 messagetype.php
+-rw-r--r--   1 u0172789 638          5596 May 11  2018 options.php
+drwxr-xr-x   3 u0172789 638          4096 May 11  2018 panel
+-rw-r--r--   1 u0172789 638          2190 May 11  2018 params.php
+-rw-r--r--   1 u0172789 638           469 May 11  2018 types.php

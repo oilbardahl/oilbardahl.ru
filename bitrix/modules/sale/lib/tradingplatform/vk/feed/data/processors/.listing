@@ -1,0 +1,9 @@
+drwxr-xr-x   2 u0172789 638          4096 May 11  2018 .
+drwxr-xr-x   5 u0172789 638          4096 May 11  2018 ..
+-rw-r--r--   1 u0172789 638          4003 May 11  2018 albumadd.php
+-rw-r--r--   1 u0172789 638          2513 May 11  2018 albumsdelete.php
+-rw-r--r--   1 u0172789 638          1951 May 11  2018 albumsdeleteall.php
+-rw-r--r--   1 u0172789 638           867 May 11  2018 dataprocessor.php
+-rw-r--r--   1 u0172789 638          6150 May 11  2018 productadd.php
+-rw-r--r--   1 u0172789 638          2598 May 11  2018 productsdelete.php
+-rw-r--r--   1 u0172789 638          1966 May 11  2018 productsdeleteall.php

@@ -1,0 +1,9 @@
+drwxr-xr-x   2 u0172789 638          4096 May 10  2016 .
+drwxr-xr-x   5 u0172789 638          4096 May 10  2016 ..
+-rw-r--r--   1 u0172789 638          1404 May 10  2016 clouds_file_list.php
+-rw-r--r--   1 u0172789 638           423 May 10  2016 clouds_file_search.php
+-rw-r--r--   1 u0172789 638          2244 May 10  2016 clouds_storage_edit.php
+-rw-r--r--   1 u0172789 638          2279 May 10  2016 clouds_storage_list.php
+-rw-r--r--   1 u0172789 638           114 May 10  2016 menu.php
+-rw-r--r--   1 u0172789 638           242 May 10  2016 operation_description.php
+-rw-r--r--   1 u0172789 638           563 May 10  2016 task_description.php

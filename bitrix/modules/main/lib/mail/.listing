@@ -1,0 +1,16 @@
+drwxr-xr-x   4 u0172789 638          4096 May 11  2018 .
+drwxr-xr-x  35 u0172789 638          4096 May 11  2018 ..
+-rw-r--r--   1 u0172789 638          2448 May 11  2018 address.php
+-rw-r--r--   1 u0172789 638          1021 May 11  2018 context.php
+-rw-r--r--   1 u0172789 638          6614 May 11  2018 event.php
+-rw-r--r--   1 u0172789 638          5778 May 11  2018 eventmanager.php
+-rw-r--r--   1 u0172789 638         13037 May 10  2016 eventmessagecompiler.php
+-rw-r--r--   1 u0172789 638         10382 May 16  2016 eventmessagethemecompiler.php
+drwxr-xr-x   2 u0172789 638          4096 May 11  2018 internal
+-rw-r--r--   1 u0172789 638         21511 May 11  2018 mail.php
+-rw-r--r--   1 u0172789 638          2968 May 11  2018 multipart.php
+-rw-r--r--   1 u0172789 638          2959 May 11  2018 part.php
+-rw-r--r--   1 u0172789 638          2435 May 11  2018 sender.php
+drwxr-xr-x   2 u0172789 638          4096 May 11  2018 smtp
+-rw-r--r--   1 u0172789 638           284 May 16  2016 stopexception.php
+-rw-r--r--   1 u0172789 638          8219 May 11  2018 tracking.php

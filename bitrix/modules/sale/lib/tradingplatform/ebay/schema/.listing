@@ -1,0 +1,9 @@
+drwxr-xr-x   2 u0172789 638          4096 May 10  2016 .
+drwxr-xr-x   5 u0172789 638          4096 May 10  2016 ..
+-rw-r--r--   1 u0172789 638           799 May 10  2016 Inventory.xsd
+-rw-r--r--   1 u0172789 638           574 May 10  2016 Order.xsd
+-rw-r--r--   1 u0172789 638           759 May 10  2016 OrderAck.xsd
+-rw-r--r--   1 u0172789 638         17891 May 10  2016 Product.xsd
+-rw-r--r--   1 u0172789 638          1159 May 10  2016 Shipment.xsd
+-rw-r--r--   1 u0172789 638       5492315 May 10  2016 ebaySvc.xsd
+-rw-r--r--   1 u0172789 638       2471091 May 10  2016 merchantdataservice.xsd

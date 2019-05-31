@@ -1,0 +1,14 @@
+drwxr-xr-x   6 u0172789 638          4096 Jul 25  2016 .
+drwxr-xr-x   3 u0172789 638          4096 May 10  2016 ..
+drwxr-xr-x   3 u0172789 638          4096 May 10  2016 bitrix
+-rw-r--r--   1 u0172789 638          3628 Jul 25  2016 component_epilog.php
+-rw-r--r--   1 u0172789 638         10210 Jul 25  2016 form.php
+drwxr-xr-x   3 u0172789 638          4096 May 10  2016 images
+drwxr-xr-x   4 u0172789 638          4096 May 10  2016 lang
+-rw-r--r--   1 u0172789 638           709 May 10  2016 result_modifier.php
+drwxr-xr-x   2 u0172789 638          4096 May 10  2016 ru
+-rw-r--r--   1 u0172789 638         26708 Jul 25  2016 script.js
+-rw-r--r--   1 u0172789 638         19489 Jul 25  2016 script.map.js
+-rw-r--r--   1 u0172789 638         16871 Jul 25  2016 script.min.js
+-rw-r--r--   1 u0172789 638         16971 May 10  2016 style.css
+-rw-r--r--   1 u0172789 638          9305 Jul 25  2016 template.php

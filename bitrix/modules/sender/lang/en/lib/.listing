@@ -1,0 +1,17 @@
+drwxr-xr-x   5 u0172789 638          4096 May 11  2018 .
+drwxr-xr-x   5 u0172789 638          4096 May 16  2016 ..
+-rw-r--r--   1 u0172789 638           335 May 10  2016 contact.php
+-rw-r--r--   1 u0172789 638           187 May 10  2016 group.php
+drwxr-xr-x   2 u0172789 638          4096 May 10  2016 internals
+-rw-r--r--   1 u0172789 638           433 May 10  2016 mailing.php
+-rw-r--r--   1 u0172789 638           647 May 11  2018 mailingchain.php
+-rw-r--r--   1 u0172789 638          1131 May 10  2016 posting.php
+-rw-r--r--   1 u0172789 638           401 May 10  2016 postingmanager.php
+drwxr-xr-x   2 u0172789 638          4096 May 10  2016 preset
+-rw-r--r--   1 u0172789 638           268 May 10  2016 senderconnectorcontact.php
+-rw-r--r--   1 u0172789 638           524 May 10  2016 senderconnectorrecipient.php
+-rw-r--r--   1 u0172789 638           220 May 11  2018 senderconnectorunsubscribers.php
+-rw-r--r--   1 u0172789 638            60 May 10  2016 sendertriggeruserauth.php
+-rw-r--r--   1 u0172789 638           158 May 10  2016 sendertriggeruserdontauth.php
+drwxr-xr-x   2 u0172789 638          4096 May 11  2018 stat
+-rw-r--r--   1 u0172789 638           910 May 16  2016 template.php

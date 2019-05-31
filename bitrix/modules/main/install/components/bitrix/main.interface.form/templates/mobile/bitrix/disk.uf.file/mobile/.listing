@@ -1,0 +1,8 @@
+drwxr-xr-x   3 u0172789 638          4096 May 16  2016 .
+drwxr-xr-x   3 u0172789 638          4096 May 16  2016 ..
+-rw-r--r--   1 u0172789 638          3278 May 11  2018 edit.php
+drwxr-xr-x   4 u0172789 638          4096 May 16  2016 lang
+-rw-r--r--   1 u0172789 638         10711 May 11  2018 script.js
+-rw-r--r--   1 u0172789 638          8526 May 11  2018 script.map.js
+-rw-r--r--   1 u0172789 638          7705 May 11  2018 script.min.js
+-rw-r--r--   1 u0172789 638          2037 May 16  2016 show.php

@@ -1,0 +1,14 @@
+drwxr-xr-x   7 u0172789 638          4096 May 10  2016 .
+drwxr-xr-x   8 u0172789 638          4096 May 10  2016 ..
+drwxr-xr-x   2 u0172789 638          4096 May 10  2016 admin
+drwxr-xr-x   3 u0172789 638          4096 May 10  2016 components
+drwxr-xr-x   3 u0172789 638          4096 May 10  2016 db
+-rw-r--r--   1 u0172789 638           913 May 10  2016 events.php
+-rw-r--r--   1 u0172789 638          8859 May 10  2016 index.php
+-rw-r--r--   1 u0172789 638          1756 May 10  2016 inst1.php
+-rw-r--r--   1 u0172789 638          1302 May 11  2018 inst2.php
+drwxr-xr-x   3 u0172789 638          4096 May 10  2016 php_interface
+drwxr-xr-x   3 u0172789 638          4096 May 10  2016 themes
+-rw-r--r--   1 u0172789 638           821 May 10  2016 uninst1.php
+-rw-r--r--   1 u0172789 638           495 May 10  2016 uninst2.php
+-rw-r--r--   1 u0172789 638            99 May 11  2018 version.php

@@ -1,0 +1,12 @@
+drwxr-xr-x   5 u0172789 638          4096 May 10  2016 .
+drwxr-xr-x   5 u0172789 638          4096 May 10  2016 ..
+-rw-r--r--   1 u0172789 638          3277 May 10  2016 .parameters.php
+drwxr-xr-x  12 u0172789 638          4096 May 10  2016 bitrix
+-rw-r--r--   1 u0172789 638          6941 May 11  2018 detail.php
+drwxr-xr-x   7 u0172789 638          4096 May 10  2016 images
+drwxr-xr-x   4 u0172789 638          4096 May 10  2016 lang
+-rw-r--r--   1 u0172789 638          5268 May 10  2016 news.php
+-rw-r--r--   1 u0172789 638          1004 May 10  2016 rss.php
+-rw-r--r--   1 u0172789 638          1121 May 10  2016 rss_section.php
+-rw-r--r--   1 u0172789 638          1404 May 10  2016 search.php
+-rw-r--r--   1 u0172789 638          4624 May 11  2018 section.php

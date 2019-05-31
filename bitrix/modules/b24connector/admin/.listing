@@ -1,0 +1,11 @@
+drwxr-xr-x   2 u0172789 638          4096 May 11  2018 .
+drwxr-xr-x   6 u0172789 638          4096 May 11  2018 ..
+-rw-r--r--   1 u0172789 638          3995 May 11  2018 b24connector.php
+-rw-r--r--   1 u0172789 638          1536 May 11  2018 buttons.php
+-rw-r--r--   1 u0172789 638          1672 May 11  2018 chat.php
+-rw-r--r--   1 u0172789 638          1933 May 11  2018 crm_forms.php
+-rw-r--r--   1 u0172789 638            66 May 11  2018 menu.php
+-rw-r--r--   1 u0172789 638          2566 May 11  2018 open_lines.php
+-rw-r--r--   1 u0172789 638          1344 May 11  2018 prolog_before.php
+-rw-r--r--   1 u0172789 638          1538 May 11  2018 recall.php
+-rw-r--r--   1 u0172789 638          3608 May 11  2018 telefonia.php

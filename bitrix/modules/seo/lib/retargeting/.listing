@@ -1,0 +1,14 @@
+drwxr-xr-x   4 u0172789 638          4096 May 11  2018 .
+drwxr-xr-x   7 u0172789 638          4096 May 11  2018 ..
+-rw-r--r--   1 u0172789 638           428 May 11  2018 account.php
+-rw-r--r--   1 u0172789 638           391 May 11  2018 adshttpclient.php
+-rw-r--r--   1 u0172789 638          7833 May 11  2018 audience.php
+-rw-r--r--   1 u0172789 638          2010 May 11  2018 authadapter.php
+-rw-r--r--   1 u0172789 638          1322 May 11  2018 baseapiobject.php
+-rw-r--r--   1 u0172789 638           669 May 11  2018 factory.php
+drwxr-xr-x   2 u0172789 638          4096 May 11  2018 internals
+-rw-r--r--   1 u0172789 638           331 May 11  2018 iservice.php
+-rw-r--r--   1 u0172789 638          3040 May 11  2018 request.php
+-rw-r--r--   1 u0172789 638          1711 May 11  2018 response.php
+-rw-r--r--   1 u0172789 638          1339 May 11  2018 service.php
+drwxr-xr-x   2 u0172789 638          4096 May 11  2018 services

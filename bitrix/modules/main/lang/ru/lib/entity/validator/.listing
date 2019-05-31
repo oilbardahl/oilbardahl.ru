@@ -1,0 +1,8 @@
+drwxr-xr-x   2 u0172789 638          4096 May 10  2016 .
+drwxr-xr-x   3 u0172789 638          4096 May 10  2016 ..
+-rw-r--r--   1 u0172789 638            84 May 10  2016 base.php
+-rw-r--r--   1 u0172789 638           134 May 10  2016 foreign.php
+-rw-r--r--   1 u0172789 638           266 May 10  2016 length.php
+-rw-r--r--   1 u0172789 638           232 May 10  2016 range.php
+-rw-r--r--   1 u0172789 638            85 May 10  2016 regexp.php
+-rw-r--r--   1 u0172789 638           127 May 10  2016 unique.php

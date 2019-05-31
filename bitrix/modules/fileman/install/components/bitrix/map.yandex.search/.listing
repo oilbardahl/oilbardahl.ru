@@ -1,0 +1,9 @@
+drwxr-xr-x   6 u0172789 638          4096 May 10  2016 .
+drwxr-xr-x  13 u0172789 638          4096 May 11  2018 ..
+-rw-r--r--   1 u0172789 638           454 May 10  2016 .description.php
+-rw-r--r--   1 u0172789 638          2999 May 10  2016 .parameters.php
+-rw-r--r--   1 u0172789 638           695 May 11  2018 component.php
+drwxr-xr-x   2 u0172789 638          4096 May 10  2016 images
+drwxr-xr-x   4 u0172789 638          4096 May 10  2016 lang
+drwxr-xr-x   2 u0172789 638          4096 May 10  2016 settings
+drwxr-xr-x   3 u0172789 638          4096 May 10  2016 templates

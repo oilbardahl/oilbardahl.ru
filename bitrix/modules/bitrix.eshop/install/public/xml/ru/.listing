@@ -1,0 +1,7 @@
+drwxr-xr-x   3 u0172789 638          4096 May 10  2016 .
+drwxr-xr-x   3 u0172789 638          4096 May 10  2016 ..
+drwxr-xr-x   3 u0172789 638          4096 May 10  2016 catalog_files
+-rw-r--r--   1 u0172789 638         76988 Dec 25  2017 catalog_prices_sku.xml
+-rw-r--r--   1 u0172789 638         76989 Dec 25  2017 catalog_prices_sku_bl.xml
+-rw-r--r--   1 u0172789 638         76989 Dec 25  2017 catalog_prices_sku_ua.xml
+-rw-r--r--   1 u0172789 638        791172 May 10  2016 catalog_sku.xml

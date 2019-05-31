@@ -1,0 +1,10 @@
+drwxr-xr-x   2 u0172789 638          4096 May 10  2016 .
+drwxr-xr-x  35 u0172789 638          4096 May 11  2018 ..
+-rw-r--r--   1 u0172789 638          3052 May 10  2016 directory.php
+-rw-r--r--   1 u0172789 638           926 May 10  2016 directoryentry.php
+-rw-r--r--   1 u0172789 638          5480 May 10  2016 file.php
+-rw-r--r--   1 u0172789 638           790 May 10  2016 fileentry.php
+-rw-r--r--   1 u0172789 638          2705 May 11  2018 filesystementry.php
+-rw-r--r--   1 u0172789 638           179 May 10  2016 ifilestream.php
+-rw-r--r--   1 u0172789 638          1820 May 10  2016 ioexception.php
+-rw-r--r--   1 u0172789 638          8752 May 11  2018 path.php

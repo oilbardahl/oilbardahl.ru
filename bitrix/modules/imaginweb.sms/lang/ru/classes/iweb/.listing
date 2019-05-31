@@ -1,0 +1,18 @@
+drwxr-xr-x   3 u0172789 638          4096 Dec  1  2016 .
+drwxr-xr-x   4 u0172789 638          4096 Dec  1  2016 ..
+-rw-r--r--   1 u0172789 638            89 Dec  1  2016 ASSMS.class.php
+drwxr-xr-x   3 u0172789 638          4096 Dec  1  2016 Bitcall
+-rw-r--r--   1 u0172789 638          2140 Dec  1  2016 DEVINOSMS.Class.v2.1.php
+-rw-r--r--   1 u0172789 638           162 Dec  1  2016 QTSMS.class.php
+-rw-r--r--   1 u0172789 638           925 Dec  1  2016 Sender.php
+-rw-r--r--   1 u0172789 638             5 Dec  1  2016 am4u_config Copy.php
+-rw-r--r--   1 u0172789 638             5 Dec  1  2016 am4u_config.php
+-rw-r--r--   1 u0172789 638             5 Dec  1  2016 am4u_transport Copy.php
+-rw-r--r--   1 u0172789 638           844 Dec  1  2016 am4u_transport.php
+-rw-r--r--   1 u0172789 638             5 Dec  1  2016 mainsms.class.php
+-rw-r--r--   1 u0172789 638             5 Dec  1  2016 redsms_smsClient.php
+-rw-r--r--   1 u0172789 638             5 Dec  1  2016 redsms_smsClientEng.php
+-rw-r--r--   1 u0172789 638             5 Dec  1  2016 sms-sending_config.php
+-rw-r--r--   1 u0172789 638           347 Dec  1  2016 sms-sending_transport.php
+-rw-r--r--   1 u0172789 638             5 Dec  1  2016 smsClient.php
+-rw-r--r--   1 u0172789 638             5 Dec  1  2016 smsClientEng.php

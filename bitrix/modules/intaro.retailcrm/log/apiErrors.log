@@ -1,0 +1,4539 @@
+Array
+(
+    [TIME] => 2019-05-24 15:03:04
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => integrationModulesEdit
+            [errorMsg] => Parameter 'integrationModule' is missing
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => Array
+                        (
+                            [clientId] => 5ce7dba837962
+                            [code] => bitrix-5ce7dba837962
+                            [integrationCode] => bitrix
+                            [active] => 1
+                            [name] => 1С-Битрикс
+                            [logo] => https://s3.eu-central-1.amazonaws.com/retailcrm-billing/images/5af47fe682bf2-1c-bitrix-logo.svg
+                            [baseUrl] => https://oilbardahl.ru
+                            [accountUrl] => https://oilbardahl.ru/bitrix/admin
+                        )
+
+                    [1] => 
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-24 15:24:25
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7509
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-24 15:24:25
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 1461
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-24 15:59:02
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersHistory
+            [errorMsg] => Could not resolve host: oilbardahl.retailcrm.ru; Unknown error
+            [errors] => 6
+            [params] => Array
+                (
+                    [0] => Array
+                        (
+                            [sinceId] => 1173
+                        )
+
+                    [1] => 
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-24 15:59:02
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersHistory
+            [errorMsg] => Could not resolve host: oilbardahl.retailcrm.ru; Unknown error
+            [errors] => 6
+            [params] => Array
+                (
+                    [0] => Array
+                        (
+                            [sinceId] => 2550
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-24 16:05:59
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7510
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-24 16:05:59
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 4759
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-24 18:13:03
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7511
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-24 19:20:05
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7512
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-24 19:48:34
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7513
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-24 19:58:41
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 3625
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-24 19:58:41
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 3625
+                    [1] => externalId
+                    [2] => 
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-25 00:02:02
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersHistory
+            [errorMsg] => Could not resolve host: oilbardahl.retailcrm.ru; Unknown error
+            [errors] => 6
+            [params] => Array
+                (
+                    [0] => Array
+                        (
+                            [sinceId] => 1179
+                        )
+
+                    [1] => 
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-25 00:02:02
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersHistory
+            [errorMsg] => Could not resolve host: oilbardahl.retailcrm.ru; Unknown error
+            [errors] => 6
+            [params] => Array
+                (
+                    [0] => Array
+                        (
+                            [sinceId] => 2580
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-25 08:06:02
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersHistory
+            [errorMsg] => Could not resolve host: oilbardahl.retailcrm.ru; Unknown error
+            [errors] => 6
+            [params] => Array
+                (
+                    [0] => Array
+                        (
+                            [sinceId] => 1179
+                        )
+
+                    [1] => 
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-25 08:06:02
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersHistory
+            [errorMsg] => Could not resolve host: oilbardahl.retailcrm.ru; Unknown error
+            [errors] => 6
+            [params] => Array
+                (
+                    [0] => Array
+                        (
+                            [sinceId] => 2580
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-25 10:18:54
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7514
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-25 10:18:54
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 4767
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-25 12:47:36
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7515
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-25 13:01:08
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7516
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-25 13:17:43
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7517
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-25 13:17:43
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 1960
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-25 13:41:53
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 4754
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-25 13:41:53
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 4754
+                    [1] => externalId
+                    [2] => 
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-25 14:39:07
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7518
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-25 14:39:07
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 4770
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-25 14:46:02
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7519
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-25 14:46:02
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 2640
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-25 15:11:19
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7520
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-25 15:14:39
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 4753
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-25 15:14:39
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 4753
+                    [1] => externalId
+                    [2] => 
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-25 15:50:38
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7521
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-25 15:50:38
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 3224
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-25 16:11:02
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersHistory
+            [errorMsg] => Could not resolve host: oilbardahl.retailcrm.ru; Unknown error
+            [errors] => 6
+            [params] => Array
+                (
+                    [0] => Array
+                        (
+                            [sinceId] => 1186
+                        )
+
+                    [1] => 
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-25 16:11:02
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersHistory
+            [errorMsg] => Could not resolve host: oilbardahl.retailcrm.ru; Unknown error
+            [errors] => 6
+            [params] => Array
+                (
+                    [0] => Array
+                        (
+                            [sinceId] => 2666
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-25 16:38:47
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7522
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-25 16:55:46
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 4753
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-25 16:55:46
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 4753
+                    [1] => externalId
+                    [2] => 
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-25 17:47:03
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 4753
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-25 17:47:03
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 4753
+                    [1] => externalId
+                    [2] => 
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-25 18:20:51
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 4754
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-25 18:20:51
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 4754
+                    [1] => externalId
+                    [2] => 
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-25 18:40:16
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 4753
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-25 18:40:16
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 4753
+                    [1] => externalId
+                    [2] => 
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-25 19:24:37
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 4754
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-25 19:24:37
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 4754
+                    [1] => externalId
+                    [2] => 
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-25 19:36:37
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 4753
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-25 19:36:37
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 4753
+                    [1] => externalId
+                    [2] => 
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-25 20:31:43
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 4753
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-25 20:31:43
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 4753
+                    [1] => externalId
+                    [2] => 
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-25 21:31:57
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 4753
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-25 21:31:57
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 4753
+                    [1] => externalId
+                    [2] => 
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-25 22:28:12
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 4753
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-25 22:28:12
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 4753
+                    [1] => externalId
+                    [2] => 
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-25 22:34:56
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7523
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-25 22:34:56
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 4772
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-25 23:24:40
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 4753
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-25 23:24:40
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 4753
+                    [1] => externalId
+                    [2] => 
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-25 23:30:16
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 4754
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-25 23:30:16
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 4754
+                    [1] => externalId
+                    [2] => 
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-26 00:17:22
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 4753
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-26 00:17:22
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 4753
+                    [1] => externalId
+                    [2] => 
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-26 00:31:15
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 4754
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-26 00:31:15
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 4754
+                    [1] => externalId
+                    [2] => 
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-26 01:12:21
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 4753
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-26 01:12:21
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 4753
+                    [1] => externalId
+                    [2] => 
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-26 02:04:25
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 4753
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-26 02:04:25
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 4753
+                    [1] => externalId
+                    [2] => 
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-26 03:02:35
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 4753
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-26 03:02:35
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 4753
+                    [1] => externalId
+                    [2] => 
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-26 04:17:02
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersHistory
+            [errorMsg] => Could not resolve host: oilbardahl.retailcrm.ru; Unknown error
+            [errors] => 6
+            [params] => Array
+                (
+                    [0] => Array
+                        (
+                            [sinceId] => 1191
+                        )
+
+                    [1] => 
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-26 04:17:02
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersHistory
+            [errorMsg] => Could not resolve host: oilbardahl.retailcrm.ru; Unknown error
+            [errors] => 6
+            [params] => Array
+                (
+                    [0] => Array
+                        (
+                            [sinceId] => 2679
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-26 10:58:55
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7524
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-26 12:08:47
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7525
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-26 12:08:47
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 3982
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-26 13:22:33
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7526
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-26 13:22:33
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 4198
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-27 07:57:15
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7527
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-27 07:57:15
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 4756
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-27 08:10:41
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7528
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-27 08:10:41
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 4777
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-27 11:25:24
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7531
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-27 12:44:36
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7533
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-27 12:44:36
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 4781
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-27 13:31:52
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7534
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-27 13:31:52
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 4782
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-27 13:35:06
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7535
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-27 13:46:38
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7536
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-27 13:52:58
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7537
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-27 13:52:59
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 1428
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-27 14:18:14
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7538
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-27 14:18:14
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 4406
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-27 14:30:27
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7539
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-27 14:33:57
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7540
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-27 14:37:23
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7541
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-27 14:44:15
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7542
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-27 14:46:45
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7543
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-27 14:46:45
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 4783
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-27 14:46:56
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7544
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-27 14:49:23
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7545
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-27 14:54:06
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7546
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-27 15:13:23
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7547
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-27 15:16:04
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7548
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-27 15:17:13
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7549
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-27 15:20:45
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7550
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-27 15:26:40
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7551
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-27 15:30:49
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7552
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-27 15:33:33
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7553
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-27 15:41:10
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7554
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-27 16:09:46
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7556
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-27 16:09:46
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7556
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-27 16:09:50
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7555
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-27 16:10:27
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7557
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-27 16:16:28
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7558
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-27 16:40:27
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7560
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-27 16:43:25
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7561
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-27 16:50:53
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7562
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-27 17:13:28
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7563
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-27 17:51:46
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7564
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-27 17:54:59
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7569
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-27 17:55:00
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7569
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-27 17:55:00
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 4789
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-27 17:58:29
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7565
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-27 17:58:29
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersPaymentCreate
+            [errorMsg] => Errors in the entity format
+            [errors] => Array
+                (
+                    [order] => "Order" with {site: www-oilbardahl-ru, externalId: 7565} does not exist.
+                )
+
+            [params] => Array
+                (
+                    [0] => Array
+                        (
+                            [type] => card-office
+                            [amount] => 2250.0000
+                            [externalId] => 7633
+                            [paidAt] => 2019-05-27 17:58:29
+                            [status] => paid
+                            [order] => Array
+                                (
+                                    [externalId] => 7565
+                                )
+
+                        )
+
+                    [1] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-27 17:58:29
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7565
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-27 17:58:30
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 4785
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-27 17:59:01
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7568
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-27 17:59:01
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7568
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-27 17:59:01
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 4788
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-27 17:59:09
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7567
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-27 17:59:09
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7567
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-27 17:59:09
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 4787
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-27 17:59:14
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7566
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-27 17:59:15
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7566
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-27 17:59:15
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 4786
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-27 18:04:36
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7570
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-27 18:04:36
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersPaymentCreate
+            [errorMsg] => Errors in the entity format
+            [errors] => Array
+                (
+                    [order] => "Order" with {site: www-oilbardahl-ru, externalId: 7570} does not exist.
+                )
+
+            [params] => Array
+                (
+                    [0] => Array
+                        (
+                            [type] => cash-office
+                            [amount] => 1953.0000
+                            [externalId] => 7638
+                            [paidAt] => 2019-05-27 18:04:36
+                            [status] => paid
+                            [order] => Array
+                                (
+                                    [externalId] => 7570
+                                )
+
+                        )
+
+                    [1] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-27 18:04:37
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7570
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-27 18:31:36
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7573
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-27 18:31:36
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 4790
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-27 18:35:09
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7574
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-27 18:53:59
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7575
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-27 18:53:59
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 4791
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-27 19:24:32
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7576
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-27 19:24:33
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 4792
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-28 04:41:01
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersHistory
+            [errorMsg] => Could not resolve host: oilbardahl.retailcrm.ru; Unknown error
+            [errors] => 6
+            [params] => Array
+                (
+                    [0] => Array
+                        (
+                            [sinceId] => 1247
+                        )
+
+                    [1] => 
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-28 04:41:01
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersHistory
+            [errorMsg] => Could not resolve host: oilbardahl.retailcrm.ru; Unknown error
+            [errors] => 6
+            [params] => Array
+                (
+                    [0] => Array
+                        (
+                            [sinceId] => 2981
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-28 10:09:45
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7577
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-28 10:14:59
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7578
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-28 10:14:59
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 1813
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-28 14:36:05
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7579
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-28 14:36:05
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 4800
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-28 15:10:46
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7580
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-28 15:10:46
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 4801
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-28 15:27:06
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7581
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-28 16:39:55
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7582
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-28 16:39:55
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 4802
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-28 17:35:31
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7583
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-28 20:06:45
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7584
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-29 04:53:02
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersHistory
+            [errorMsg] => Could not resolve host: oilbardahl.retailcrm.ru; Unknown error
+            [errors] => 6
+            [params] => Array
+                (
+                    [0] => Array
+                        (
+                            [sinceId] => 1269
+                        )
+
+                    [1] => 
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-29 04:53:02
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersHistory
+            [errorMsg] => Could not resolve host: oilbardahl.retailcrm.ru; Unknown error
+            [errors] => 6
+            [params] => Array
+                (
+                    [0] => Array
+                        (
+                            [sinceId] => 3166
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-29 10:53:26
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7586
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-29 10:53:26
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 4808
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-29 13:18:28
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7587
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-29 13:18:28
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 4809
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-29 13:30:01
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7588
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-29 13:30:01
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 4810
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-29 14:48:41
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7589
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-29 14:48:41
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 973
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-29 14:57:59
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7590
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-29 15:05:23
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7591
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-29 15:07:03
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7592
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-29 15:09:50
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7593
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-29 15:27:56
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7594
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-29 15:58:26
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7595
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-29 16:00:58
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7596
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-29 16:00:58
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 2991
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-29 16:10:43
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7597
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-29 16:10:43
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 4812
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-29 16:15:21
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7598
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-29 16:16:53
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7599
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-29 16:29:25
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7600
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-29 21:01:02
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersHistory
+            [errorMsg] => Could not resolve host: oilbardahl.retailcrm.ru; Unknown error
+            [errors] => 6
+            [params] => Array
+                (
+                    [0] => Array
+                        (
+                            [sinceId] => 1280
+                        )
+
+                    [1] => 
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-29 21:01:02
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersHistory
+            [errorMsg] => Could not resolve host: oilbardahl.retailcrm.ru; Unknown error
+            [errors] => 6
+            [params] => Array
+                (
+                    [0] => Array
+                        (
+                            [sinceId] => 3257
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-30 01:04:01
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersHistory
+            [errorMsg] => Could not resolve host: oilbardahl.retailcrm.ru; Unknown error
+            [errors] => 6
+            [params] => Array
+                (
+                    [0] => Array
+                        (
+                            [sinceId] => 1280
+                        )
+
+                    [1] => 
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-30 01:04:01
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersHistory
+            [errorMsg] => Could not resolve host: oilbardahl.retailcrm.ru; Unknown error
+            [errors] => 6
+            [params] => Array
+                (
+                    [0] => Array
+                        (
+                            [sinceId] => 3264
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-30 05:06:02
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersHistory
+            [errorMsg] => Could not resolve host: oilbardahl.retailcrm.ru; Unknown error
+            [errors] => 6
+            [params] => Array
+                (
+                    [0] => Array
+                        (
+                            [sinceId] => 1280
+                        )
+
+                    [1] => 
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-30 05:06:02
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersHistory
+            [errorMsg] => Could not resolve host: oilbardahl.retailcrm.ru; Unknown error
+            [errors] => 6
+            [params] => Array
+                (
+                    [0] => Array
+                        (
+                            [sinceId] => 3264
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-30 09:07:01
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersHistory
+            [errorMsg] => Could not resolve host: oilbardahl.retailcrm.ru; Unknown error
+            [errors] => 6
+            [params] => Array
+                (
+                    [0] => Array
+                        (
+                            [sinceId] => 1280
+                        )
+
+                    [1] => 
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-30 09:07:01
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersHistory
+            [errorMsg] => Could not resolve host: oilbardahl.retailcrm.ru; Unknown error
+            [errors] => 6
+            [params] => Array
+                (
+                    [0] => Array
+                        (
+                            [sinceId] => 3264
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-30 10:03:48
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7601
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-30 10:03:48
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 3565
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-30 11:17:54
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7602
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-30 11:17:54
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 4815
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-30 11:21:22
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7603
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-30 11:21:22
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 4816
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-30 11:28:19
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7604
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-30 11:28:19
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 408
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-30 11:33:08
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7605
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-30 11:33:08
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 4817
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-30 11:46:07
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7606
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-30 11:46:07
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 2532
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-30 11:54:05
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7607
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-30 12:04:46
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7608
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-30 12:41:46
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7609
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-30 13:21:06
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7610
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-30 14:17:00
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7611
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-30 14:17:00
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 4819
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-30 14:47:18
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7612
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-30 15:17:19
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7614
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-30 15:24:02
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7615
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-30 15:24:02
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 4820
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-30 15:41:04
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7616
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-30 16:08:25
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7617
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-30 16:08:25
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 4821
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-30 16:46:09
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7618
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-30 16:46:09
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 2875
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-30 17:20:41
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7619
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-30 17:20:41
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 4822
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-31 05:17:02
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersHistory
+            [errorMsg] => Could not resolve host: oilbardahl.retailcrm.ru; Unknown error
+            [errors] => 6
+            [params] => Array
+                (
+                    [0] => Array
+                        (
+                            [sinceId] => 1303
+                        )
+
+                    [1] => 
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-31 05:17:02
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersHistory
+            [errorMsg] => Could not resolve host: oilbardahl.retailcrm.ru; Unknown error
+            [errors] => 6
+            [params] => Array
+                (
+                    [0] => Array
+                        (
+                            [sinceId] => 3485
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-31 09:20:02
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersHistory
+            [errorMsg] => Could not resolve host: oilbardahl.retailcrm.ru; Unknown error
+            [errors] => 6
+            [params] => Array
+                (
+                    [0] => Array
+                        (
+                            [sinceId] => 1303
+                        )
+
+                    [1] => 
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-31 09:20:03
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersHistory
+            [errorMsg] => Could not resolve host: oilbardahl.retailcrm.ru; Unknown error
+            [errors] => 6
+            [params] => Array
+                (
+                    [0] => Array
+                        (
+                            [sinceId] => 3485
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-31 11:02:18
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7620
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-31 13:21:02
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersHistory
+            [errorMsg] => Could not resolve host: oilbardahl.retailcrm.ru; Unknown error
+            [errors] => 6
+            [params] => Array
+                (
+                    [0] => Array
+                        (
+                            [sinceId] => 1308
+                        )
+
+                    [1] => 
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-31 13:21:02
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersHistory
+            [errorMsg] => Could not resolve host: oilbardahl.retailcrm.ru; Unknown error
+            [errors] => 6
+            [params] => Array
+                (
+                    [0] => Array
+                        (
+                            [sinceId] => 3500
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-31 13:25:49
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7621
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-31 13:25:49
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 492
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-31 13:37:52
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7622
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-31 13:37:53
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 2724
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-31 18:21:32
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7623
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-31 18:39:43
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 7624
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2019-05-31 18:39:43
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersGet
+            [errorMsg] => Not found
+            [errors] => 
+            [params] => Array
+                (
+                    [0] => 4824
+                    [1] => externalId
+                    [2] => www-oilbardahl-ru
+                )
+
+        )
+
+)

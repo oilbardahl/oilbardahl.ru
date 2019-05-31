@@ -1,0 +1,10 @@
+drwxr-xr-x   5 u0172789 638          4096 May 10  2016 .
+drwxr-xr-x   4 u0172789 638          4096 May 10  2016 ..
+drwxr-xr-x   2 u0172789 638          4096 May 10  2016 images
+-rw-r--r--   1 u0172789 638          6967 May 10  2016 jquery.easing.min.js
+-rw-r--r--   1 u0172789 638         93100 May 10  2016 jquery.min.js
+-rw-r--r--   1 u0172789 638        245947 May 10  2016 masterslider.js
+-rw-r--r--   1 u0172789 638        157512 May 10  2016 masterslider.min.js
+-rw-r--r--   1 u0172789 638        162661 May 10  2016 masterslider.min.js.map
+drwxr-xr-x  12 u0172789 638          4096 May 10  2016 skins
+drwxr-xr-x   2 u0172789 638          4096 May 10  2016 style

@@ -1,0 +1,17 @@
+drwxr-xr-x   2 u0172789 638          4096 May 10  2016 .
+drwxr-xr-x   6 u0172789 638          4096 May 10  2016 ..
+-rw-r--r--   1 u0172789 638            98 May 10  2016 storeassist.php
+-rw-r--r--   1 u0172789 638           114 May 10  2016 storeassist_1c_catalog_fill.php
+-rw-r--r--   1 u0172789 638           119 May 10  2016 storeassist_1c_exchange_realtime.php
+-rw-r--r--   1 u0172789 638           112 May 10  2016 storeassist_1c_small_firm.php
+-rw-r--r--   1 u0172789 638           111 May 10  2016 storeassist_1c_unloading.php
+-rw-r--r--   1 u0172789 638           107 May 10  2016 storeassist_adaptive.php
+-rw-r--r--   1 u0172789 638           110 May 10  2016 storeassist_context_adv.php
+-rw-r--r--   1 u0172789 638           108 May 10  2016 storeassist_crm_calls.php
+-rw-r--r--   1 u0172789 638           109 May 10  2016 storeassist_crm_client.php
+-rw-r--r--   1 u0172789 638           108 May 10  2016 storeassist_marketing.php
+-rw-r--r--   1 u0172789 638           108 May 10  2016 storeassist_new_items.php
+-rw-r--r--   1 u0172789 638           104 May 10  2016 storeassist_print.php
+-rw-r--r--   1 u0172789 638           111 May 10  2016 storeassist_seo_settings.php
+-rw-r--r--   1 u0172789 638           105 May 10  2016 storeassist_social.php
+-rw-r--r--   1 u0172789 638           106 May 10  2016 storeassist_virtual.php

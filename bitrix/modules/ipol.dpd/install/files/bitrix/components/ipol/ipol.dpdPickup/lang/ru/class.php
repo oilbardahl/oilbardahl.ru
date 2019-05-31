@@ -1,0 +1,3 @@
+<?php
+$MESS['IPOL_DPD_PICKUP_SERVICE_TRM'] = 'ÒÐÌ';
+$MESS['IPOL_DPD_PICKUP_SERVICE_OGD'] = 'ÎÆÄ';

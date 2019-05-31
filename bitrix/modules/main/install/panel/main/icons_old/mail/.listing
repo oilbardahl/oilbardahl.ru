@@ -1,0 +1,10 @@
+drwxr-xr-x   2 u0172789 638          4096 May 10  2016 .
+drwxr-xr-x  27 u0172789 638          4096 May 10  2016 ..
+-rw-r--r--   1 u0172789 638           257 May 10  2016 message.gif
+-rw-r--r--   1 u0172789 638           240 May 10  2016 message_notspam.gif
+-rw-r--r--   1 u0172789 638           260 May 10  2016 message_spam.gif
+-rw-r--r--   1 u0172789 638           253 May 10  2016 message_unread.gif
+-rw-r--r--   1 u0172789 638           233 May 10  2016 message_unread_notspam.gif
+-rw-r--r--   1 u0172789 638           257 May 10  2016 message_unread_spam.gif
+-rw-r--r--   1 u0172789 638           659 May 10  2016 mnu_mail.gif
+-rw-r--r--   1 u0172789 638          1707 May 10  2016 title.gif

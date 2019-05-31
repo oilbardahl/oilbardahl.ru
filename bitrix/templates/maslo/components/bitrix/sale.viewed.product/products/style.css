@@ -1,0 +1,32 @@
+div.view-list {
+	
+	
+}
+div.view-header {
+	height: 20px;
+	text-align: center;
+	background-color: #CCC;
+	margin-bottom:10px;
+}
+div.view-item {
+	text-align: center;
+	padding:1px 26px;
+	margin:0 1% 30px;
+	width:18%;
+	background: #fff;
+	float: left;
+}
+
+div.view-item .v-name a {
+	color: #3f3f3f;
+    font-size: 13px;
+}
+div.view-item .v-price {
+	font-size: 15px;
+    padding-bottom: 5px;
+	font-weight: bold;
+	color: #3f3f3f;
+}
+div.view-item img {
+	max-width: 100%;
+}

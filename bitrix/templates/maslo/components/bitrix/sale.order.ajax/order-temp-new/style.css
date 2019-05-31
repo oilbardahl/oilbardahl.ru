@@ -1,0 +1,24 @@
+#order_form_content  h2 {
+	margin-left: 0px;
+	font-weight: bold;
+}
+#order_form_content .delivery-change-block > .bx_block {
+	width: 33%;
+	float: left;
+}
+#order_form_content #delivery-props {
+	display: none;
+}
+#ORDER_CONFIRM_BUTTON {
+	max-width: 250px;
+	font-weight: bold;
+	background: #ff6600;
+	margin: 0 auto;
+}
+#ORDER_CONFIRM_BUTTON:hover {
+	background: #ffd600;
+}
+
+h3.question {
+	text-align: center;
+}

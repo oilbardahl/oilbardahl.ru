@@ -1,0 +1,16 @@
+drwxr-xr-x  16 u0172789 638          4096 May 11  2018 .
+drwxr-xr-x   3 u0172789 638          4096 May 10  2016 ..
+drwxr-xr-x   4 u0172789 638          4096 May 10  2016 report.construct
+drwxr-xr-x   4 u0172789 638          4096 May 10  2016 report.filter.field.selector
+drwxr-xr-x   4 u0172789 638          4096 May 16  2016 report.list
+drwxr-xr-x   5 u0172789 638          4096 May 11  2018 report.view
+drwxr-xr-x   3 u0172789 638          4096 May 11  2018 report.visualconstructor.board.base
+drwxr-xr-x   4 u0172789 638          4096 May 11  2018 report.visualconstructor.board.controls
+drwxr-xr-x   4 u0172789 638          4096 May 11  2018 report.visualconstructor.board.filter
+drwxr-xr-x   3 u0172789 638          4096 May 11  2018 report.visualconstructor.board.header
+drwxr-xr-x   3 u0172789 638          4096 May 11  2018 report.visualconstructor.config.fields
+drwxr-xr-x   3 u0172789 638          4096 May 11  2018 report.visualconstructor.widget.content.groupeddatagrid
+drwxr-xr-x   3 u0172789 638          4096 May 11  2018 report.visualconstructor.widget.content.number
+drwxr-xr-x   3 u0172789 638          4096 May 11  2018 report.visualconstructor.widget.content.numberblock
+drwxr-xr-x   4 u0172789 638          4096 May 11  2018 report.visualconstructor.widget.form
+drwxr-xr-x   3 u0172789 638          4096 May 11  2018 report.visualconstructor.widget.pseudoconfig

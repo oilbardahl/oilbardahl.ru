@@ -1,0 +1,7 @@
+div.mfeedback { width: 250px; padding: 10px; background: #242424; color: #fff; border-radius: 6px}
+div.mf-name, div.mf-email, div.mf-captcha, div.mf-message, div.mf-phone {width:100%; padding-bottom:0.4em;}
+div.mf-name input, div.mf-email input, div.mf-phone input {width:100%; color: #000;}
+div.mf-message textarea {width: 100%; color: #000;}
+span.mf-req {color:red;}
+div.mf-ok-text {color:green; font-weight:bold; padding-bottom: 1em;}
+div.mfeedback input[type="submit"] {color: #000;}

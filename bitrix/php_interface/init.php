@@ -74,61 +74,36 @@ class MyClass{
  * icmark
  */
 
-AddEventHandler("sale", "OnSaleOrderBeforeSaved", "SaveOriginalLocation");
+use Bitrix\Main;
+Main\EventManager::getInstance()->addEventHandler(
+  'sale',
+  'OnSaleOrderBeforeSaved',
+  'SaveOriginalLocation'
+);
 
-function SaveOriginalLocation($event) {
-  if ($_SERVER['REMOTE_ADDR'] == "5.167.139.26") {
-    //$event = $values->getParameter("isNew");
-    
-    $fd = fopen($_SERVER["DOCUMENT_ROOT"]."/test/hello.txt", 'w') or die("íå óäàëîñü ñîçäàòü ôàéë");
-    fwrite($fd, print_r($event, TRUE));
-    fclose($fd);
-    /*$sityVal = $values->getPropertyCollection()->getItemByOrderPropertyId(24)->getFields()->getValues();
-    if ($sityVal["VALUE"] == "-") {
-      $orderProp = $values->getPropertyCollection()->getItemByOrderPropertyId(6)->getFields()->getValues();
-      $sityCode = Bitrix\Sale\Location\Admin\LocationHelper::getLocationPathDisplay($orderProp['VALUE']);
-      $values->getPropertyCollection()->getItemByOrderPropertyId(24)->setValue($sityCode);
-    }*/
-  }
-  
-  /*
-  if ($arFields['ORDER_PROP']['6']) {
-    $arSityCode = $arFields['ORDER_PROP']['6'];
-    $arSity = Bitrix\Sale\Location\Admin\LocationHelper::getLocationPathDisplay($arSityCode);
-  */  
-  
-    
-
-    /*
-    $thisOrder = CSaleOrderPropsValue::GetOrderProps($ID);
-    while ($arPropsThisOrder = $thisOrder->Fetch()) {
-      if ($arPropsThisOrder["ORDER_PROPS_ID"] == "24") {
-        $thisOrderPropsID = $arPropsThisOrder["ID"];
+function SaveOriginalLocation(Main\Event $event) {
+  $thisOrder = $event->getParameter("ENTITY");
+  if ($thisOrder) {
+    $isNew = $thisOrder->isNew();
+    if ($isNew == "1") {
+      $propCol24 = $thisOrder->getPropertyCollection()->getItemByOrderPropertyId(24)->getFields()->getValues();
+      if ($propCol24['VALUE'] == "-") {
+        $orderProp = $thisOrder->getPropertyCollection()->getItemByOrderPropertyId(6)->getFields()->getValues();
+        if ($orderProp['VALUE']) {
+          $sityCode = Bitrix\Sale\Location\Admin\LocationHelper::getLocationPathDisplay($orderProp['VALUE']);
+          if ($sityCode) {
+            $thisOrder->getPropertyCollection()->getItemByOrderPropertyId(24)->setValue($sityCode);
+          }
+        }
       }
     }
-    if($thisOrderPropsID) {
-      $arFieldsForThisOrder = array(
-        "ORDER_ID" => $ID,
-        "VALUE" => $arSity
-       );
-      CSaleOrderPropsValue::Update($thisOrderPropsID, $arFieldsForThisOrder);
-    }
-    */
- 
-
-
-
-    
-    /*$thisOrder = Bitrix\Sale\Order::load($ID);
-    $propertyCollection = $thisOrder->getPropertyCollection();
-    $sityPropValue = $propertyCollection->getItemByOrderPropertyId(24);
-    $sityPropValue->setValue($arSity);
-    $sityPropValue->save();*/
-    
-  /* 
-  } 
-  */
+  }
 }
+
+
+
+
+
 
 
 

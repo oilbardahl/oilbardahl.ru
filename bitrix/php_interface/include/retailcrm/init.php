@@ -35,12 +35,13 @@ function retailCrmAfterOrderSave($order)
     $orderId = $order['externalId'];
     
     if ($orderId) {
-        $fullAddress = $order['customFields']['delivery_address'];
+        $fullAddress1 = \Bitrix\Main\Text\Encoding::convertEncoding($order['customFields']['delivery_address'], 'UTF-8', 'CP1251');
         $orderB = \Bitrix\Sale\Order::load($orderId);
         $propertyCollection = $orderB->getPropertyCollection();
         $prop = getPropertyByCode($propertyCollection, 'SINGLE_LINE_ADDRESS');
-        if ($fullAddress != $prop->getValue()) {
-            $prop->setValue($fullAddress);
+        $fullAddress2 = $prop->getValue();
+        if ($fullAddress1 != $fullAddress2) {
+            $prop->setValue($fullAddress1);
             $orderB->save();
         }
     }

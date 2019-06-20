@@ -82,22 +82,47 @@ Main\EventManager::getInstance()->addEventHandler(
 );
 
 function SaveOriginalLocation(Main\Event $event) {
-  $thisOrder = $event->getParameter("ENTITY");
-  if ($thisOrder) {
-    $isNew = $thisOrder->isNew();
-    if ($isNew == "1") {
-      $propCol24 = $thisOrder->getPropertyCollection()->getItemByOrderPropertyId(24)->getFields()->getValues();
-      if ($propCol24['VALUE'] == "-") {
-        $orderProp = $thisOrder->getPropertyCollection()->getItemByOrderPropertyId(6)->getFields()->getValues();
-        if ($orderProp['VALUE']) {
-          $sityCode = Bitrix\Sale\Location\Admin\LocationHelper::getLocationPathDisplay($orderProp['VALUE']);
-          if ($sityCode) {
-            $thisOrder->getPropertyCollection()->getItemByOrderPropertyId(24)->setValue($sityCode);
-          }
+    $order = $event->getParameter("ENTITY");
+    if ($order) {
+        $isNew = $order->isNew();
+        if ($isNew == "1")
+        {
+            $propertyCollection = $order->getPropertyCollection();
+
+            $props = [];
+            $orderData = $propertyCollection->getArray();
+            foreach ($orderData['properties'] as $prop) {
+                $props[$prop['CODE']] = $prop['VALUE'][0];
+            }
+
+            var_dump($props);
+
+            $cityCode = $props['LOCATION'];
+
+            $ID = CSaleLocation::getLocationIDbyCODE( $cityCode );
+            $arVal = CSaleLocation::GetByID( $ID );
+
+            $fullCityName = $arVal['COUNTRY_NAME'];
+            if ($arVal['REGION_NAME'])
+                $fullCityName .= ', ' . $arVal['REGION_NAME'];
+            if ($arVal['CITY_NAME'])
+                $fullCityName .= ', ' . $arVal['CITY_NAME'];
+
+            $fullAddress = $fullCityName;
+            if ($props['CLIENT_STREET'])
+                $fullAddress .= ', ул.' . trim($props['CLIENT_STREET']);
+            if ($props['HOUSE'])
+                $fullAddress .= ', д.' . trim($props['HOUSE']);
+            if ($props['KORPUS'])
+                $fullAddress .= '/' . trim($props['KORPUS']);
+            if ($props['KVARTIRA'])
+                $fullAddress .= ', кв.' . trim($props['KVARTIRA']);
+            if ($props['OFFICE'])
+                $fullAddress .= ', оф.' . trim($props['OFFICE']);
+            
+            $propertyCollection->getItemByOrderPropertyId(24)->setValue($fullAddress);
         }
-      }
     }
-  }
 }
 
 

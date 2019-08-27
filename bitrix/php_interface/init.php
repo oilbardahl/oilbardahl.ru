@@ -358,8 +358,5 @@ class UFFileldAdd
         return $result;
         }
 } 
-}  
-
-	
-	
+}
 ?>

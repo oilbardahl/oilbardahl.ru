@@ -20,7 +20,26 @@ require_once(dirname(__FILE__)."/../include/prolog_admin_before.php");
 require_once($_SERVER["DOCUMENT_ROOT"].BX_ROOT."/modules/main/prolog.php");
 define("HELP_FILE", "users/user_admin.php");
 $entity_id = "USER";
-
+?>
+<?
+if ($USER->GetID() != 1) {
+	?>
+		<script src="/bitrix/templates/maslo/assets/plugins/jquery/jquery.min.js"></script>
+		<script> 
+			$(document).ready(function(){
+				$(".adm-toolbar-panel-button").click(function() {
+					$('.bx-core-popup-menu-item').each(function(){
+						if($(this).find('.bx-core-popup-menu-item-text').text() == "Excel"){
+							$(this).hide();
+						}
+					});
+				});
+			});	
+		</script>
+	<?
+}
+?>
+<?
 if(!($USER->CanDoOperation('view_subordinate_users') || $USER->CanDoOperation('view_all_users') || $USER->CanDoOperation('edit_all_users') || $USER->CanDoOperation('edit_subordinate_users')))
 	$APPLICATION->AuthForm(GetMessage("ACCESS_DENIED"));
 

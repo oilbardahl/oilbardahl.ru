@@ -4198,12 +4198,15 @@ echo BeginNote();
 		});
 	</script>
 <?endif;?>
+
+<script src="/bitrix/templates/maslo/assets/plugins/jquery/jquery.min.js"></script>
+
 <?
 	// удаляем выбор бардаля для заказа у продавцов из москвытунинг (многосайтовость)
 	$server_url_mtuning = $_SERVER['SERVER_NAME'].$_SERVER['REQUEST_URI'];
     if (strpos($server_url_mtuning, "mtuning.oilbardahl.ru/bitrix/admin/sale_order.php") !== false){
 		?>
-		<script src="/bitrix/templates/maslo/assets/plugins/jquery/jquery.min.js"></script>
+		
 		<script>
 			$(document).ready(function(){
 				$(".adm-list-table-top a").click(function() {
@@ -4217,6 +4220,25 @@ echo BeginNote();
 		</script>
 		<?
 	}
+
+	// удаляем кнопку выгрузкы excel для всех, кроме пользователей admin и (Романа)
+	if ($USER->GetID() != 1) {
+		?>
+			<script> 
+				$(document).ready(function(){
+					$(".adm-list-table-top div").click(function() {
+						$('.bx-core-popup-menu-item').each(function(){
+							if($(this).find('.bx-core-popup-menu-item-text').text() == "Excel"){
+								$(this).hide();
+							}
+						});
+					});
+				});	
+			</script>
+		<?
+	}
+
+
 	// скрываем дилерские заказы в админке
 	/*if (strpos($server_url_mtuning, "oilbardahl.ru/bitrix/admin/sale_order.php") !== false){
 		?>

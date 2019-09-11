@@ -10,8 +10,6 @@ function pr($item, $show_for = false) {
          }
 }
 
-
-
 AddEventHandler("search", "BeforeIndex", Array("MyClass", "BeforeIndexHandler"));
 class MyClass{
     // создаем обработчик события "BeforeIndex"
@@ -125,20 +123,23 @@ function SaveOriginalLocation(Main\Event $event) {
     }
 }
 
-
-
-
-
-
-
+AddEventHandler("main", "OnBeforeEventAdd", array("MainHandlers", "OnBeforeEventAddHandler"));
+class MainHandlers {
+  function OnBeforeEventAddHandler($event, $lid, $arFields, $messageId, $files, $languageId) {
+    if (preg_match("/[0-9]{11}@oilbardahl.ru/", $arFields['EMAIL']) || preg_match("/[0-9]{10}@oilbardahl.ru/", $arFields['EMAIL'])) {
+      unset($event);
+      unset($arFields);
+      unset($lid);
+      return false;
+    }
+  }
+}
 
 AddEventHandler("sale", "OnSalePayOrder", "ChangeStatus");
 
 function ChangeStatus($id,$val) {
   CSaleOrder::StatusOrder($id,'OO');
 }
-
-
 
 /**
  * отправка заказа в эватоп после его оплаты картой
@@ -149,11 +150,6 @@ function SendOrderToTheEquator () {
   CModule::IncludeModule("pavelbabich.kassa");
   PKASSAModuleMain::SendPaidOrdersToEvotor();
 }
-
-
-
-
-
 
 /*
 AddEventHandler("main", "OnAdminTabControlBegin", "MyOnAdminTabControlBegin");
@@ -199,17 +195,13 @@ AddEventHandler("main", "OnAdminTabControlBegin", "MyOnAdminTabControlBegin");
 	}
 */
 
-
-
-
 //AddEventHandler("sale", "OnOrderUpdate", "Test_f");
-function Test_f(){
+/*function Test_f(){
   $fd = fopen($_SERVER["DOCUMENT_ROOT"]."/test/hello.txt", 'w') or die("не удалось создать файл");
   $str = "Привет мир!";
   fwrite($fd, $str);
   fclose($fd);
-}
-
+}*/
 
 //редактирвоание доп. полей пользователя
 AddEventHandler("main", "OnAdminTabControlBegin", "MyOnAdminTabControlBegin");

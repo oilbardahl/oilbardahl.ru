@@ -101,8 +101,6 @@ function SaveOriginalLocation(Main\Event $event) {
               $serviceFio = $props['CLIENT_PATR'] . ' ' . $props['CLIENT_NAME'];
               $propertyCollection->getItemByOrderPropertyId(26)->setValue($serviceFio);
             }
-            
-            
 
             $cityCode = $props['LOCATION'];
 

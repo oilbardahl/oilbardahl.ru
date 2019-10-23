@@ -69,6 +69,7 @@ class MyClass{
 
 /**
  * записываем город в новое поле (свойство заказа) SINGLE_LINE_ADDRESS
+ * записываем фамилию и имя в одно поле ФИО SERVICE_FIO
  * icmark
  */
 
@@ -94,6 +95,11 @@ function SaveOriginalLocation(Main\Event $event) {
             }
 
             var_dump($props);
+
+            // записываем фамилию и имя в одно поле ФИО SERVICE_FIO
+            $serviceFio = $props['CLIENT_PATR'] . ' ' . $props['CLIENT_NAME'];
+            $propertyCollection->getItemByOrderPropertyId(26)->setValue($serviceFio);
+            
 
             $cityCode = $props['LOCATION'];
 

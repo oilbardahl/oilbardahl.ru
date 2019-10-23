@@ -97,8 +97,11 @@ function SaveOriginalLocation(Main\Event $event) {
             var_dump($props);
 
             // записываем фамилию и имя в одно поле ФИО SERVICE_FIO
-            $serviceFio = $props['CLIENT_PATR'] . ' ' . $props['CLIENT_NAME'];
-            $propertyCollection->getItemByOrderPropertyId(26)->setValue($serviceFio);
+            if ($props['CLIENT_PATR'] && $props['CLIENT_NAME']) {
+              $serviceFio = $props['CLIENT_PATR'] . ' ' . $props['CLIENT_NAME'];
+              $propertyCollection->getItemByOrderPropertyId(26)->setValue($serviceFio);
+            }
+            
             
 
             $cityCode = $props['LOCATION'];

@@ -210,6 +210,31 @@ AddEventHandler("main", "OnAdminTabControlBegin", "MyOnAdminTabControlBegin");
   fclose($fd);
 }*/
 
+// ставим минимальную оплату за доставку по МСК у СДЭК 400р
+AddEventHandler('ipol.sdek', 'onCalculate', 'changeSDEKPrice');
+function changeSDEKPrice(&$arResult, $profile, $arConfig, $arOrder){
+  if ($arOrder['LOCATION_TO'] == '0000073738'){
+    $arResult['VALUE'] = 400;
+  }
+/*
+		здесь задаются условия в зависимости от значений параметров:
+		$profile - профиль
+		$arConfig - настройки СД
+		$arOrder - параметры заказа
+			LOCATION_TO   - id местоположения доставки
+			LOCATION_FROM - id местоположения отправления
+			PRICE         - стоимость заказа
+			WEIGHT        - вес заказа в граммах
+		$arResult - массив вида
+			RESULT  - OK, если расчет верен, ERROR - если ошибка
+			VALUE   - стоимость доставки в рублях
+			TRANSIT - срок доставки в днях
+			TARIF   - рассчитанный тариф, только для информации
+		
+		!Не забудьте, что $arResult - указатель на массив
+	*/
+}
+
 //редактирвоание доп. полей пользователя
 AddEventHandler("main", "OnAdminTabControlBegin", "MyOnAdminTabControlBegin");
   function MyOnAdminTabControlBegin(&$form)

@@ -4,9 +4,10 @@
 .filter_active{
     opacity: 0.3;
 }
-.header-v5 .navbar-default, .search-button{
+.header-v5 .navbar-default .collapse.navbar-collapse.navbar-responsive-collapse, .header-v5 .navbar-default .shop-badge.badge-icons.pull-right,.search-button{
     display: none !important;
 }
+
 #VYAZKOST{
     margin-left: 0;
 }

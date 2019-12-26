@@ -53,7 +53,6 @@ if ($normalCount > 0):
                   	<? endif?>
 
                     <div class="product-it-in">
-										<!--<pre><?php print_r($arItem);?></pre>-->
                       <h3>
 												<?=$arItem['NAME']?></h3>
                       <? if ($arItem['CATALOG']['PROPERTY_388_VALUE']):?>
@@ -63,11 +62,12 @@ if ($normalCount > 0):
 
                   </td>
                   <td>
-				  <?=$arItem['PRICE_FORMATED']?>
-				  <!--<? 
+					 <?php if ($arItem['DISCOUNT_PRICE']) { ?><span style="color: red; font-size: 12px; text-decoration: line-through"><?= $arItem['FULL_PRICE_FORMATED'] ?></span><br> <?php } ?> 
+				 	 <?=$arItem['PRICE_FORMATED']?>
+				  	<!--<? 
 					$salePrice = $arItem['PROPERTY_MARKER_SALE_VALUE'];
 					$price = $arItem['PRICE_FORMATED']
-				  ?>
+				  	?>
 				  
 				  <? if($price >=1){
 						$price_r = $price-($price * $salePrice)/100;
@@ -126,7 +126,10 @@ if ($normalCount > 0):
       <ul class="list-inline total-result">
         <li>
           <h4>Сумма:</h4>
-          <div class="total-result-in"> <span><?=$arResult['allSum_FORMATED']?></span> </div>
+          <div class="total-result-in"> 
+			<?php if ($arResult['DISCOUNT_PRICE_ALL']) { ?><span style="color: red; font-size: 12px; text-decoration: line-through"><?= $arResult['PRICE_WITHOUT_DISCOUNT'] ?></span><br> <?php } ?>
+		  	<span><?=$arResult['allSum_FORMATED']?></span> 
+		  </div>
         </li>
         <li class="divider"></li>
         <li class="total-price">

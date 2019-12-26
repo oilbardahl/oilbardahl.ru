@@ -60,6 +60,9 @@ use Bitrix\Main\Loader,
 		<!--<a href="/o-nas/aktsiya/akciya-4/" id="banner-left-cat">-->
 			<img id="banner-left-cat" src="/upload/images/insta.jpg" />
 		<!--</a>-->
+		<?/*<a href="/o-nas/aktsiya/akciya-4/" >
+			<img class="banner-left-cat" src="/upload/images/logo_promotional.jpg" />
+		</a>*/?>
 	</div>
 	<?endif;?>
 

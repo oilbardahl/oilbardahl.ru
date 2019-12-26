@@ -188,15 +188,22 @@
 	width: height !important;
 }
 
-#banner-left-cat {
+
+#banner-left-cat, .banner-left-cat{
 	display: block;
 	width: 260px;
 	/*height: 351px;*/
 	margin-top: 30px;
 	margin-left: 2px;
 }
+.banner-left-cat img{
+	max-width: 100%;
+}
+#block_stock_1 img{
+	max-width: 100%;
+}
 @media (max-width:1200px) {
-	#banner-left-cat, #first-diler-promo {
+	#banner-left-cat, .banner-left-cat, #first-diler-promo {
 		display: none;
 	}
 }

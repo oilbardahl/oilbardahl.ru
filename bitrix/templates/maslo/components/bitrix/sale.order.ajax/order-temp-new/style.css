@@ -5,6 +5,10 @@
 #order_form_content .delivery-change-block > .bx_block {
 	width: 33%;
 	float: left;
+	min-height: 194px;
+}
+#order_form_content .delivery-change-block > .bx_block:nth-child(1), #order_form_content .delivery-change-block > .bx_block:nth-child(2), #order_form_content .delivery-change-block > .bx_block:nth-child(3) {
+	min-height: 143px;
 }
 #order_form_content #delivery-props {
 	display: none;

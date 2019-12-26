@@ -303,8 +303,12 @@ if (!function_exists("cmpBySort"))
 						    );
 						while ($arItems = $dbBasketItems->Fetch())
 						   {
-						      $countPrice += $arItems["PRICE"]*$arItems["QUANTITY"];
+							  $countPrice += $arItems["PRICE"]*$arItems["QUANTITY"];
 						   }
+						   
+						   //устанавливаем цену заказа из общей суммы со скидкой
+						   $countPrice = $arResult["JS_DATA"]["TOTAL"]["ORDER_PRICE"];
+
 	            		?>	
 	            		<script>
 	            			$( document ).ready(function() {
@@ -313,20 +317,18 @@ if (!function_exists("cmpBySort"))
 									var $diliveryPrise = $diliveryPrise.replace(/\s+/g,'');
 									var $numdiliveryPrise = parseInt($diliveryPrise);
 									var $numdiliveryPrise1 = $numdiliveryPrise + <?php echo $countPrice;?> + " руб";
+									var discountPrice = $numdiliveryPrise + <?php echo $countPrice;?> + <?php echo $arResult["JS_DATA"]["TOTAL"]["DISCOUNT_PRICE"]; ?>;
 									$('#umdiliveryPriseID').empty();
 	            					$('#umdiliveryPriseID').text($numdiliveryPrise1);
+									$('#discount-price').text(discountPrice);
 								});
 	            				
             				});
 	            		</script>
-							<p style="text-align: center; font-size: 18px;"><strong>Всего:</strong> <span id="umdiliveryPriseID" style="color: red;"><?php echo $countPrice;?> руб</span></p>
-                    	</p>
-                    	<!--<pre><?php 
-							
-
-						
-							
-                    	?></pre>-->
+							<p style="text-align: center; font-size: 18px;"><strong>Всего:</strong>
+							<?php if ($arResult["JS_DATA"]["TOTAL"]["DISCOUNT_PRICE"]) { ?><span id="discount-price" style="font-size: 12px; text-decoration: line-through"><?= $arResult["JS_DATA"]["TOTAL"]["ORDER_TOTAL_PRICE"] + $arResult["JS_DATA"]["TOTAL"]["DISCOUNT_PRICE"]; ?></span><?php } ?>
+							<span id="umdiliveryPriseID" style="color: red;"><?php echo $countPrice;?> руб</span></p>
+						</p>
                     	<p style="text-align: center;">«Нажимая кнопку "Оформить заказ" Вы соглашаетесь с <a style="color: #FFD600;display: inline-block;font-size: 16px;min-width: auto;padding: 0;text-align: left;background: transparent;text-decoration: none;text-transform: none;" href="/info/rules_sale_for_online_shop/" target="_blank">офертой</a>»</p>
 						<a href="javascript:void();" onclick="submitForm('Y'); return false;" id="ORDER_CONFIRM_BUTTON" class="checkout" role="menuitem">Оформить заказ</a><div class="button_to_back_end"><input class="button_to_back" type="button" onclick="history.back();" value="Назад"/></div></li>
 					</div>

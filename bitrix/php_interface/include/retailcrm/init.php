@@ -9,6 +9,18 @@ $GLOBALS['RX_PERSONAL_DISCOUNT_USER_GROUPS'] = [
     30 => 10,
 ];
 
+function retailCrmBeforeCustomerSend($customer)
+{
+    $usergroups = CUser::GetUserGroup($customer['externalId']);
+    if (in_array(19, $usergroups) || in_array(20, $usergroups) || in_array(21, $usergroups) || in_array(22, $usergroups)) { // 19 - Дилеры
+        $customer['contragent']['contragentType'] = 'legal-entity';
+        $customer['customFields']['personal_discount'] = 0;
+    }
+    
+    return $customer;
+    //либо return false; и тогда данные отправлены в систему не будут
+}
+
 function retailCrmBeforeOrderSend($order, $arFields)
 {
     foreach ($arFields['PROPS']['properties'] as $prop) {
@@ -26,6 +38,14 @@ function retailCrmBeforeOrderSend($order, $arFields)
         $order['delivery']['data']['price'] = $order['delivery']['cost'];
     }
 
+    if (isset($order['externalId'])) {
+        $bOrder = \Bitrix\Sale\Order::load($order['externalId']);
+        $publicLink = \Bitrix\Sale\Helpers\Order::getPublicLink($bOrder);
+        if ($publicLink) {
+            $order['customFields']['public_url'] = $publicLink;
+        }
+    }
+    
     return $order;
     //либо return false; и тогда данные отправлены в систему не будут
 }
